@@ -1,0 +1,134 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "episode": 1,
+      "title": "Episode 1",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://files.catbox.moe/foyj23.mp4",
+      "server2": "https://sourcemirrors.org/hosted/97486-thegodofhighschools01e01.mp4",
+      "download": "https://files.catbox.moe/foyj23.mp4"
+    },
+    {
+      "id": "s1e2",
+      "episode": 2,
+      "title": "Episode 2",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://kappa.lol/zocLlJ",
+      "server2": "https://sourcemirrors.org/hosted/69673-thegodofhighschools01e02.mp4",
+      "download": "https://kappa.lol/zocLlJ"
+    },
+    {
+      "id": "s1e3",
+      "episode": 3,
+      "title": "Episode 3",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://kappa.lol/jFNkjD",
+      "server2": "https://sourcemirrors.org/hosted/99893-thegodofhighschools01e03.mp4",
+      "download": "https://kappa.lol/jFNkjD"
+    },
+    {
+      "id": "s1e4",
+      "episode": 4,
+      "title": "Episode 4",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://kappa.lol/VccIvF",
+      "server2": "https://sourcemirrors.org/hosted/77785-thegodofhighschools01e04.mp4",
+      "download": "https://kappa.lol/VccIvF"
+    },
+    {
+      "id": "s1e5",
+      "episode": 5,
+      "title": "Episode 5",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://kappa.lol/RdnWSP",
+      "server2": "https://sourcemirrors.org/hosted/3485-thegodofhighschools01e05.mp4",
+      "download": "https://kappa.lol/RdnWSP"
+    },
+    {
+      "id": "s1e6",
+      "episode": 6,
+      "title": "Episode 6",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://kappa.lol/PzBMtF",
+      "server2": "https://sourcemirrors.org/hosted/41753-thegodofhighschools01e06.mp4",
+      "download": "https://kappa.lol/PzBMtF"
+    },
+    {
+      "id": "s1e7",
+      "episode": 7,
+      "title": "Episode 7",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://kappa.lol/YStxOZ",
+      "server2": "https://sourcemirrors.org/hosted/97145-thegodofhighschools01e07.mp4",
+      "download": "https://kappa.lol/YStxOZ"
+    },
+    {
+      "id": "s1e8",
+      "episode": 8,
+      "title": "Episode 8",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://kappa.lol/hoWsFh",
+      "server2": "https://sourcemirrors.org/hosted/4671-thegodofhighschools01e08.mp4",
+      "download": "https://kappa.lol/hoWsFh"
+    },
+    {
+      "id": "s1e9",
+      "episode": 9,
+      "title": "Episode 9",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://kappa.lol/zXesTZ",
+      "server2": "https://sourcemirrors.org/hosted/37210-thegodofhighschools01e09.mp4",
+      "download": "https://kappa.lol/zXesTZ"
+    },
+    {
+      "id": "s1e10",
+      "episode": 10,
+      "title": "Episode 10",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://leopard.hosting.pecon.us/dl/jqezd",
+      "server2": "https://sourcemirrors.org/hosted/18682-thegodofhighschools01e10.mp4",
+      "download": "https://leopard.hosting.pecon.us/dl/jqezd"
+    },
+    {
+      "id": "s1e11",
+      "episode": 11,
+      "title": "Episode 11",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://kappa.lol/5AQqwu",
+      "server2": "https://sourcemirrors.org/hosted/8107-thegodofhighschools01e11.mp4",
+      "download": "https://kappa.lol/5AQqwu"
+    },
+    {
+      "id": "s1e12",
+      "episode": 12,
+      "title": "Episode 12",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://leopard.hosting.pecon.us/dl/wihle",
+      "server2": "https://sourcemirrors.org/hosted/32187-thegodofhighschools01e12.mp4",
+      "download": "https://leopard.hosting.pecon.us/dl/wihle"
+    },
+    {
+      "id": "s1e13",
+      "episode": 13,
+      "title": "Episode 13",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://leopard.hosting.pecon.us/dl/czqfd",
+      "server2": "https://sourcemirrors.org/hosted/99100-thegodofhighschools01e13.mp4",
+      "download": "https://leopard.hosting.pecon.us/dl/czqfd"
+    }
+  ]
+}
