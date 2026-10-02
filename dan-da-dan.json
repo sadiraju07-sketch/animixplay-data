@@ -1,0 +1,244 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "title": "Episode 1",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/5351-dandadans01e01.mp4",
+      "server2": "https://kappa.lol/kiHCe1",
+      "download": "https://sourcemirrors.org/hosted/5351-dandadans01e01.mp4",
+      "episode": 1
+    },
+    {
+      "id": "s1e2",
+      "title": "Episode 2",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/10086-dandadans01e02.mp4",
+      "server2": "https://kappa.lol/KdU6b4",
+      "download": "https://sourcemirrors.org/hosted/10086-dandadans01e02.mp4",
+      "episode": 2
+    },
+    {
+      "id": "s1e3",
+      "title": "Episode 3",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/38878-dandadans01e03.mp4",
+      "server2": "https://kappa.lol/8mtkZ4",
+      "download": "https://sourcemirrors.org/hosted/38878-dandadans01e03.mp4",
+      "episode": 3
+    },
+    {
+      "id": "s1e4",
+      "title": "Episode 4",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/11267-dandadans01e04.mp4",
+      "server2": "https://kappa.lol/qS0V9K",
+      "download": "https://sourcemirrors.org/hosted/11267-dandadans01e04.mp4",
+      "episode": 4
+    },
+    {
+      "id": "s1e5",
+      "title": "Episode 5",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/22391-dandadans01e05.mp4",
+      "server2": "https://kappa.lol/pIaZrH",
+      "download": "https://sourcemirrors.org/hosted/22391-dandadans01e05.mp4",
+      "episode": 5
+    },
+    {
+      "id": "s1e6",
+      "title": "Episode 6",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/79826-dandadans01e06.mp4",
+      "server2": "https://sourcemirrors.org/hosted/79826-dandadans01e06.mp4",
+      "download": "https://sourcemirrors.org/hosted/79826-dandadans01e06.mp4",
+      "episode": 6
+    },
+    {
+      "id": "s1e7",
+      "title": "Episode 7",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/14331-dandadans01e07.mp4",
+      "server2": "https://sourcemirrors.org/hosted/14331-dandadans01e07.mp4",
+      "download": "https://sourcemirrors.org/hosted/14331-dandadans01e07.mp4",
+      "episode": 7
+    },
+    {
+      "id": "s1e8",
+      "title": "Episode 8",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/78786-dandadans01e08.mp4",
+      "server2": "https://kappa.lol/kc1TT1",
+      "download": "https://sourcemirrors.org/hosted/78786-dandadans01e08.mp4",
+      "episode": 8
+    },
+    {
+      "id": "s1e9",
+      "title": "Episode 9",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/67898-dandadans01e09.mp4",
+      "server2": "https://sourcemirrors.org/hosted/67898-dandadans01e09.mp4",
+      "download": "https://sourcemirrors.org/hosted/67898-dandadans01e09.mp4",
+      "episode": 9
+    },
+    {
+      "id": "s1e10",
+      "title": "Episode 10",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/72208-dandadans01e10.mp4",
+      "server2": "https://kappa.lol/wgCfkS",
+      "download": "https://sourcemirrors.org/hosted/72208-dandadans01e10.mp4",
+      "episode": 10
+    },
+    {
+      "id": "s1e11",
+      "title": "Episode 11",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/42422-dandadans01e11.mp4",
+      "server2": "https://sourcemirrors.org/hosted/42422-dandadans01e11.mp4",
+      "download": "https://sourcemirrors.org/hosted/42422-dandadans01e11.mp4",
+      "episode": 11
+    },
+    {
+      "id": "s1e12",
+      "title": "Episode 12",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/75349-dandadans01e13.mp4",
+      "server2": "https://kappa.lol/4e6fcz",
+      "download": "https://sourcemirrors.org/hosted/75349-dandadans01e13.mp4",
+      "episode": 12
+    },
+    {
+      "id": "s1e13",
+      "title": "Episode 1",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/12855-dandadans02e01.mp4",
+      "server2": "https://kappa.lol/9trsrc",
+      "download": "https://sourcemirrors.org/hosted/12855-dandadans02e01.mp4",
+      "episode": 13
+    },
+    {
+      "id": "s1e14",
+      "title": "Episode 2",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/1771-dandadans02e02.mp4",
+      "server2": "https://kappa.lol/TTOeKI",
+      "download": "https://sourcemirrors.org/hosted/1771-dandadans02e02.mp4",
+      "episode": 14
+    },
+    {
+      "id": "s1e15",
+      "title": "Episode 3",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/47154-dandadans02e03.mp4",
+      "server2": "https://kappa.lol/q5KN4I",
+      "download": "https://sourcemirrors.org/hosted/47154-dandadans02e03.mp4",
+      "episode": 15
+    },
+    {
+      "id": "s1e16",
+      "title": "Episode 4",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/51033-dandadans02e04.mp4",
+      "server2": "https://kappa.lol/hHvNZq",
+      "download": "https://sourcemirrors.org/hosted/51033-dandadans02e04.mp4",
+      "episode": 16
+    },
+    {
+      "id": "s1e17",
+      "title": "Episode 5",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/29112-dandadans02e05.mp4",
+      "server2": "https://kappa.lol/6MhXG6",
+      "download": "https://sourcemirrors.org/hosted/29112-dandadans02e05.mp4",
+      "episode": 17
+    },
+    {
+      "id": "s1e18",
+      "title": "Episode 6",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/69678-dandadans02e06.mp4",
+      "server2": "https://kappa.lol/dbrbE8",
+      "download": "https://sourcemirrors.org/hosted/69678-dandadans02e06.mp4",
+      "episode": 18
+    },
+    {
+      "id": "s1e19",
+      "title": "Episode 7",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/43216-dandadans02e07.mp4",
+      "server2": "https://kappa.lol/1V4dsn",
+      "download": "https://sourcemirrors.org/hosted/43216-dandadans02e07.mp4",
+      "episode": 19
+    },
+    {
+      "id": "s1e20",
+      "title": "Episode 8",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/45946-dandadans02e08.mp4",
+      "server2": "https://sourcemirrors.org/hosted/45946-dandadans02e08.mp4",
+      "download": "https://sourcemirrors.org/hosted/45946-dandadans02e08.mp4",
+      "episode": 20
+    },
+    {
+      "id": "s1e21",
+      "title": "Episode 9",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/68720-dandadans02e09.mp4",
+      "server2": "https://kappa.lol/3H6THk",
+      "download": "https://sourcemirrors.org/hosted/68720-dandadans02e09.mp4",
+      "episode": 21
+    },
+    {
+      "id": "s1e22",
+      "title": "Episode 10",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/6258-dandadans02e10.mp4",
+      "server2": "https://kappa.lol/tJs77b",
+      "download": "https://sourcemirrors.org/hosted/6258-dandadans02e10.mp4",
+      "episode": 22
+    },
+    {
+      "id": "s1e23",
+      "title": "Episode 11",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/15771-dandadans02e11.mp4",
+      "server2": "https://sourcemirrors.org/hosted/15771-dandadans02e11.mp4",
+      "download": "https://sourcemirrors.org/hosted/15771-dandadans02e11.mp4",
+      "episode": 23
+    },
+    {
+      "id": "s1e24",
+      "title": "Episode 12",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+      "server1": "https://sourcemirrors.org/hosted/19694-dandadans02e12.mp4",
+      "server2": "https://sourcemirrors.org/hosted/19694-dandadans02e12.mp4",
+      "download": "https://sourcemirrors.org/hosted/19694-dandadans02e12.mp4",
+      "episode": 24
+    }
+  ]
+}
