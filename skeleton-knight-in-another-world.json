@@ -1,0 +1,226 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "episode": 1,
+      "title": "The Wandering Knight Sets Out to Make the World a Better Place",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E01.mp4",
+      "server2": "https://files.catbox.moe/0rqv7z.mp4",
+      "download": "https://files.catbox.moe/0rqv7z.mp4"
+    },
+    {
+      "id": "s1e2",
+      "episode": 2,
+      "title": "A First Job, a Girl's Wish, and an Approaching Shadow",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E02.mp4",
+      "server2": "https://files.catbox.moe/prqq7j.mp4",
+      "download": "https://files.catbox.moe/prqq7j.mp4"
+    },
+    {
+      "id": "s1e3",
+      "episode": 3,
+      "title": "An Austere Elf Dances for Her Comrades",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E03.mp4",
+      "server2": "https://files.catbox.moe/3vf8zn.mp4",
+      "download": "https://files.catbox.moe/3vf8zn.mp4"
+    },
+    {
+      "id": "s1e4",
+      "episode": 4,
+      "title": "Infiltrating the Slave Market! In Search of the World's Evil",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E04.mp4",
+      "server2": "https://files.catbox.moe/kogr7t.mp4",
+      "download": "https://files.catbox.moe/kogr7t.mp4"
+    },
+    {
+      "id": "s1e5",
+      "episode": 5,
+      "title": "A Secret Revealed, and a Bond Forged",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E05.mp4",
+      "server2": "https://files.catbox.moe/cttki8.mp4",
+      "download": "https://files.catbox.moe/cttki8.mp4"
+    },
+    {
+      "id": "s1e6",
+      "episode": 6,
+      "title": "Learning About the Darkness of This World at the Elf Village",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E06.mp4",
+      "server2": "https://files.catbox.moe/22bj3d.mp4",
+      "download": "https://files.catbox.moe/22bj3d.mp4"
+    },
+    {
+      "id": "s1e7",
+      "episode": 7,
+      "title": "A Miracle for the High-Minded Princess",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E07.mp4",
+      "server2": "https://files.catbox.moe/hhm041.mp4",
+      "download": "https://files.catbox.moe/hhm041.mp4"
+    },
+    {
+      "id": "s1e8",
+      "episode": 8,
+      "title": "Allied! Dashing Through the Darkness with the Beastpeople!",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E08.mp4",
+      "server2": "https://files.catbox.moe/xl89na.mp4",
+      "download": "https://files.catbox.moe/xl89na.mp4"
+    },
+    {
+      "id": "s1e9",
+      "episode": 9,
+      "title": "The Capital in Chaos and a Maiden's Oath",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E09.mp4",
+      "server2": "https://files.catbox.moe/cebweq.mp4",
+      "download": "https://files.catbox.moe/cebweq.mp4"
+    },
+    {
+      "id": "s1e10",
+      "episode": 10,
+      "title": "Hope for the Future Found in the Desert",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E10.mp4",
+      "server2": "https://files.catbox.moe/uzohae.mp4",
+      "download": "https://files.catbox.moe/uzohae.mp4"
+    },
+    {
+      "id": "s1e11",
+      "episode": 11,
+      "title": "The Monster-Taming Barbarian Laughs in the Darkness",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E11.mp4",
+      "server2": "https://files.catbox.moe/69evkk.mp4",
+      "download": "https://files.catbox.moe/69evkk.mp4"
+    },
+    {
+      "id": "s1e12",
+      "episode": 12,
+      "title": "I Shall Cut Through the World's Evils!",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "https://archive.org/download/skeleton-knight-in-another-world-s-01-e-01/Skeleton%20Knight%20in%20Another%20World%20-%20S01E12.mp4",
+      "server2": "https://files.catbox.moe/mm6dy3.mp4",
+      "download": "https://files.catbox.moe/mm6dy3.mp4"
+    }
+  ],
+  "2": [
+    {
+      "id": "s2e1",
+      "episode": 1,
+      "title": "Duel to the Death? Silver Knight VS Silver Knight!",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s2e2",
+      "episode": 2,
+      "title": "The Toxic Fangs of Assassination Target the Elvish Blade",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s2e3",
+      "episode": 3,
+      "title": "The Fall of Villains and the Dance of Sibling Love",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s2e4",
+      "episode": 4,
+      "title": "The Cursed Village Where the Saint's Soul Roams",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s2e5",
+      "episode": 5,
+      "title": "Terror! Shadows of Undeath Lurking Down Below",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s2e6",
+      "episode": 6,
+      "title": "The Nature of This World Floats Upon the Dragon King's Spring",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s2e7",
+      "episode": 7,
+      "title": "The Spirit of Chivalry Blooms at the Shinobi Village!",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s2e8",
+      "episode": 8,
+      "title": "The Sea Hears the Tale of the Tragic Kunoichi's Past",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s2e9",
+      "episode": 9,
+      "title": "Reunited to the Sound of a Dark Beast's Howl",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s2e10",
+      "episode": 10,
+      "title": "The Cold-Blooded Code Hunting a Brother With Tears in Her Eyes",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    }
+  ]
+}
