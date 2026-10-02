@@ -1,0 +1,124 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "episode": 1,
+      "title": "Episode 1",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/1.mkv",
+      "server2": "https://files.catbox.moe/0bw527.mp4",
+      "download": "https://files.catbox.moe/0bw527.mp4"
+    },
+    {
+      "id": "s1e2",
+      "episode": 2,
+      "title": "Episode 2",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/2.mkv",
+      "server2": "https://files.catbox.moe/q4vlge.mp4",
+      "download": "https://files.catbox.moe/q4vlge.mp4"
+    },
+    {
+      "id": "s1e3",
+      "episode": 3,
+      "title": "Episode 3",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/3.mkv",
+      "server2": "https://files.catbox.moe/zbihrr.mp4",
+      "download": "https://files.catbox.moe/zbihrr.mp4"
+    },
+    {
+      "id": "s1e4",
+      "episode": 4,
+      "title": "Episode 4",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/4.mkv",
+      "server2": "https://files.catbox.moe/rjnqdk.mp4",
+      "download": "https://files.catbox.moe/rjnqdk.mp4"
+    },
+    {
+      "id": "s1e5",
+      "episode": 5,
+      "title": "Episode 5",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/5.mkv",
+      "server2": "https://files.catbox.moe/169c59.mp4",
+      "download": "https://files.catbox.moe/169c59.mp4"
+    },
+    {
+      "id": "s1e6",
+      "episode": 6,
+      "title": "Episode 6",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/6.mkv",
+      "server2": "https://files.catbox.moe/ap9gbj.mp4",
+      "download": "https://files.catbox.moe/ap9gbj.mp4"
+    },
+    {
+      "id": "s1e7",
+      "episode": 7,
+      "title": "Episode 7",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/7.mkv",
+      "server2": "https://files.catbox.moe/aug830.mp4",
+      "download": "https://files.catbox.moe/aug830.mp4"
+    },
+    {
+      "id": "s1e8",
+      "episode": 8,
+      "title": "Episode 8",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/8.mkv",
+      "server2": "https://files.catbox.moe/xn0pb5.mp4",
+      "download": "https://files.catbox.moe/xn0pb5.mp4"
+    },
+    {
+      "id": "s1e9",
+      "episode": 9,
+      "title": "Episode 9",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/9.mkv",
+      "server2": "https://files.catbox.moe/sqt86q.mp4",
+      "download": "https://files.catbox.moe/sqt86q.mp4"
+    },
+    {
+      "id": "s1e10",
+      "episode": 10,
+      "title": "Episode 10",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/10.mkv",
+      "server2": "https://files.catbox.moe/dm4ogc.mp4",
+      "download": "https://files.catbox.moe/dm4ogc.mp4"
+    },
+    {
+      "id": "s1e11",
+      "episode": 11,
+      "title": "Episode 11",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/11.mkv",
+      "server2": "https://files.catbox.moe/r6l008.mp4",
+      "download": "https://files.catbox.moe/r6l008.mp4"
+    },
+    {
+      "id": "s1e12",
+      "episode": 12,
+      "title": "Episode 12",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/k0Yb8KjspVjNlmvHNgqRRbhZ6LA.jpg",
+      "server1": "https://archive.org/download/3_20260328_20260328_1840/12.mkv",
+      "server2": "https://files.catbox.moe/wu0bxz.mp4",
+      "download": "https://files.catbox.moe/wu0bxz.mp4"
+    }
+  ]
+}
