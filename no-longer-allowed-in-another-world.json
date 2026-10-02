@@ -1,0 +1,124 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "episode": 1,
+      "title": "Episode 1",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/sZ0FUM",
+      "server2": "https://files.catbox.moe/16owey.mp4",
+      "download": "https://kappa.lol/sZ0FUM"
+    },
+    {
+      "id": "s1e2",
+      "episode": 2,
+      "title": "Episode 2",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/QmkhBQ",
+      "server2": "https://files.catbox.moe/j16cxd.mp4",
+      "download": "https://kappa.lol/QmkhBQ"
+    },
+    {
+      "id": "s1e3",
+      "episode": 3,
+      "title": "Episode 3",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/vEdZDs",
+      "server2": "https://files.catbox.moe/06xzz4.mp4",
+      "download": "https://kappa.lol/vEdZDs"
+    },
+    {
+      "id": "s1e4",
+      "episode": 4,
+      "title": "Episode 4",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/LHQ5X3",
+      "server2": "https://files.catbox.moe/qkrmw1.mp4",
+      "download": "https://kappa.lol/LHQ5X3"
+    },
+    {
+      "id": "s1e5",
+      "episode": 5,
+      "title": "Episode 5",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/w7y5dM",
+      "server2": "https://files.catbox.moe/55719i.mp4",
+      "download": "https://kappa.lol/w7y5dM"
+    },
+    {
+      "id": "s1e6",
+      "episode": 6,
+      "title": "Episode 6",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/bBSpJC",
+      "server2": "https://files.catbox.moe/vjblrh.mp4",
+      "download": "https://kappa.lol/bBSpJC"
+    },
+    {
+      "id": "s1e7",
+      "episode": 7,
+      "title": "Episode 7",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/nhP7Tc",
+      "server2": "https://files.catbox.moe/05qw0i.mp4",
+      "download": "https://kappa.lol/nhP7Tc"
+    },
+    {
+      "id": "s1e8",
+      "episode": 8,
+      "title": "Episode 8",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/RdE9kp",
+      "server2": "https://files.catbox.moe/oc6t63.mp4",
+      "download": "https://kappa.lol/RdE9kp"
+    },
+    {
+      "id": "s1e9",
+      "episode": 9,
+      "title": "Episode 9",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/GrDtHo",
+      "server2": "https://files.catbox.moe/k18gks.mp4",
+      "download": "https://kappa.lol/GrDtHo"
+    },
+    {
+      "id": "s1e10",
+      "episode": 10,
+      "title": "Episode 10",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/WOgDXZ",
+      "server2": "https://files.catbox.moe/r88gbf.mp4",
+      "download": "https://kappa.lol/WOgDXZ"
+    },
+    {
+      "id": "s1e11",
+      "episode": 11,
+      "title": "Episode 11",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/hZgD00",
+      "server2": "https://files.catbox.moe/6t1g8k.mp4",
+      "download": "https://kappa.lol/hZgD00"
+    },
+    {
+      "id": "s1e12",
+      "episode": 12,
+      "title": "Episode 12",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+      "server1": "https://kappa.lol/FAEI0H",
+      "server2": "https://files.catbox.moe/shs9mi.mp4",
+      "download": "https://kappa.lol/FAEI0H"
+    }
+  ]
+}
