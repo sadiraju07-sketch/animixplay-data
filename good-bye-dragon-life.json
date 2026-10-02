@@ -1,0 +1,124 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "episode": 1,
+      "title": "Episode 1",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E01.mp4",
+      "server2": "https://files.catbox.moe/ipn0i2.mp4",
+      "download": "https://files.catbox.moe/ipn0i2.mp4"
+    },
+    {
+      "id": "s1e2",
+      "episode": 2,
+      "title": "Episode 2",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E02.mp4",
+      "server2": "https://files.catbox.moe/nmhowp.mp4",
+      "download": "https://files.catbox.moe/nmhowp.mp4"
+    },
+    {
+      "id": "s1e3",
+      "episode": 3,
+      "title": "Episode 3",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E03.mp4",
+      "server2": "https://files.catbox.moe/eebx8m.mp4",
+      "download": "https://files.catbox.moe/eebx8m.mp4"
+    },
+    {
+      "id": "s1e4",
+      "episode": 4,
+      "title": "Episode 4",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E04.mp4",
+      "server2": "https://files.catbox.moe/rdxj04.mp4",
+      "download": "https://files.catbox.moe/rdxj04.mp4"
+    },
+    {
+      "id": "s1e5",
+      "episode": 5,
+      "title": "Episode 5",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E05.mp4",
+      "server2": "https://files.catbox.moe/se444g.mp4",
+      "download": "https://files.catbox.moe/se444g.mp4"
+    },
+    {
+      "id": "s1e6",
+      "episode": 6,
+      "title": "Episode 6",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E06.mp4",
+      "server2": "https://files.catbox.moe/pwhlao.mp4",
+      "download": "https://files.catbox.moe/pwhlao.mp4"
+    },
+    {
+      "id": "s1e7",
+      "episode": 7,
+      "title": "Episode 7",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E07.mp4",
+      "server2": "https://files.catbox.moe/j4a6we.mp4",
+      "download": "https://files.catbox.moe/j4a6we.mp4"
+    },
+    {
+      "id": "s1e8",
+      "episode": 8,
+      "title": "Episode 8",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E08.mp4",
+      "server2": "https://files.catbox.moe/ia49fj.mp4",
+      "download": "https://files.catbox.moe/ia49fj.mp4"
+    },
+    {
+      "id": "s1e9",
+      "episode": 9,
+      "title": "Episode 9",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E09.mp4",
+      "server2": "https://files.catbox.moe/w4ir4i.mp4",
+      "download": "https://files.catbox.moe/w4ir4i.mp4"
+    },
+    {
+      "id": "s1e10",
+      "episode": 10,
+      "title": "Episode 10",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E10.mp4",
+      "server2": "https://files.catbox.moe/mus2xf.mp4",
+      "download": "https://files.catbox.moe/mus2xf.mp4"
+    },
+    {
+      "id": "s1e11",
+      "episode": 11,
+      "title": "Episode 11",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E11.mp4",
+      "server2": "https://files.catbox.moe/ym65ou.mp4",
+      "download": "https://files.catbox.moe/ym65ou.mp4"
+    },
+    {
+      "id": "s1e12",
+      "episode": 12,
+      "title": "Episode 12",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/g37MnOUoBedICbf4mdAo15czfiP.jpg",
+      "server1": "https://archive.org/download/good_20260916/Good%20Bye%20Dragon%20Life%20S01E12.mp4",
+      "server2": "https://files.catbox.moe/evxwus.mp4",
+      "download": "https://files.catbox.moe/evxwus.mp4"
+    }
+  ]
+}
