@@ -1,0 +1,134 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "episode": 1,
+      "title": "The World in Colors",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/uYILq8NgHdWiO6d3IWJOVVUe1xP.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1aP-iak-4xEzSnb4FugakZQSUfy4-kcPH",
+      "server2": "https://files.catbox.moe/rhr3y6.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1aP-iak-4xEzSnb4FugakZQSUfy4-kcPH"
+    },
+    {
+      "id": "s1e2",
+      "episode": 2,
+      "title": "To the School for Noble Children",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/2MnxkJtvp8LMAHj2Mutmat6Pagl.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1Hu8Vexefifh7XV5mZBsSTe8qtGyxlhTz",
+      "server2": "https://files.catbox.moe/sh3tt2.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1Hu8Vexefifh7XV5mZBsSTe8qtGyxlhTz"
+    },
+    {
+      "id": "s1e3",
+      "episode": 3,
+      "title": "Graduation, and What’s Next?",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/mN3eNHcwJ6jndDWob4LUbQ8svcj.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1fukr1K6TgSds1hGQn2bgCspns2GwfyjH",
+      "server2": "https://files.catbox.moe/1ke8bv.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1fukr1K6TgSds1hGQn2bgCspns2GwfyjH"
+    },
+    {
+      "id": "s1e4",
+      "episode": 4,
+      "title": "Off to the Castle",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/omq9WuNk0fLK13ucOy8AXbHzh2j.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=19BlghnyMynoagBwf9u7wvZSbrnLqpt1b",
+      "server2": "https://files.catbox.moe/ehqwcm.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=19BlghnyMynoagBwf9u7wvZSbrnLqpt1b"
+    },
+    {
+      "id": "s1e5",
+      "episode": 5,
+      "title": "Quite A Boy and A New Master",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/a8kzQBvQdQP8KVkMJD0xUbjXMSL.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1sdleWDYPm6UrsQN1DMdYVb5uBgQbEO6l",
+      "server2": "https://files.catbox.moe/5xli5q.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1sdleWDYPm6UrsQN1DMdYVb5uBgQbEO6l"
+    },
+    {
+      "id": "s1e6",
+      "episode": 6,
+      "title": "Incredible Training and Incredible Results",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/6nZfix49KYWZSvdxIHAEf0unDqI.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1BjDwXzQ9aGwDdUHPlbRy6FWbHf4OodMq",
+      "server2": "https://files.catbox.moe/h9qz1a.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1BjDwXzQ9aGwDdUHPlbRy6FWbHf4OodMq"
+    },
+    {
+      "id": "s1e7",
+      "episode": 7,
+      "title": "Kunon the Sorcerer Can See",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/w9RvbxFYaPfeQaR6jdRQKDIOQBq.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1vvj9ZPRaSAGQ6pdi4Li1dGQQbbo-dxfX",
+      "server2": "https://files.catbox.moe/9jmdd1.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1vvj9ZPRaSAGQ6pdi4Li1dGQQbbo-dxfX"
+    },
+    {
+      "id": "s1e8",
+      "episode": 8,
+      "title": "Farewells and Hellos and Dirashik",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/nhjb77kE0kkCeb5iJCq7XlYBo30.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1COi1AnPueCwbZd038xgAgyn4cufA5wRO",
+      "server2": "https://files.catbox.moe/1c38f4.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1COi1AnPueCwbZd038xgAgyn4cufA5wRO"
+    },
+    {
+      "id": "s1e9",
+      "episode": 9,
+      "title": "The Advanced Class",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/gIhdZCZc7ZTz7cY6o1C0aYZ7EWD.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1yKRkauUcYVWI3qV8K2kXLne58wliK2ke",
+      "server2": "https://files.catbox.moe/r5l7ls.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1yKRkauUcYVWI3qV8K2kXLne58wliK2ke"
+    },
+    {
+      "id": "s1e10",
+      "episode": 10,
+      "title": "The Saint's Financial Problem",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/49uFR53ISv40CZ2WgpxGHgvxtE.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1lyIXQgDKSwDA0r2f0NNJpFl9o_qDxfVM",
+      "server2": "https://files.catbox.moe/97ok1w.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1lyIXQgDKSwDA0r2f0NNJpFl9o_qDxfVM"
+    },
+    {
+      "id": "s1e11",
+      "episode": 11,
+      "title": "Flying and Roasting and Being Invited",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/z0hZd1K4l3XyjaSg4cl50lZaV4b.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1E0ikh7nSFd51O_2eWF8eiCJYhMEiAsti",
+      "server2": "https://files.catbox.moe/fh8b3f.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1E0ikh7nSFd51O_2eWF8eiCJYhMEiAsti"
+    },
+    {
+      "id": "s1e12",
+      "episode": 12,
+      "title": "Fairies Checking the Answer",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tVCIs7giy5LhwHYPI0RNbeUOBMh.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=12C0f1C6cbozkwmeC4iiTcZQBgo6Irm4V",
+      "server2": "https://files.catbox.moe/w2rodw.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=12C0f1C6cbozkwmeC4iiTcZQBgo6Irm4V"
+    },
+    {
+      "id": "s1e13",
+      "episode": 13,
+      "title": "The Unprecedented Troublemaker",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tYn0cVgpXIAaeBZvdH4Hkynu5AE.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=17byCfEBvTezOCS2IomwBNg2wCWR5Nc56",
+      "server2": "https://files.catbox.moe/jm7hjn.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=17byCfEBvTezOCS2IomwBNg2wCWR5Nc56"
+    }
+  ]
+}
