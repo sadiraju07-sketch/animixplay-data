@@ -2,99 +2,83 @@
   "1": [
     {
       "id": "s1e1",
-      "tmdbId": 298026,
-      "season": 1,
       "episode": 1,
-      "title": "Episode 1",
+      "title": "Roland Saves Anna",
       "duration": "26m",
       "thumbnail": "https://image.tmdb.org/t/p/w500/rGV9u7181Rq0sRbGocHF3InkFdv.webp",
       "server1": "https://drive.google.com/uc?export=download&id=1sWqJuASbz7PKY3xD4mBkbCNxMru6HnkS",
       "server2": "https://leopard.hosting.pecon.us/dl/zwfcw",
-      "download": ""
+      "download": "https://leopard.hosting.pecon.us/dl/zwfcw"
     },
     {
       "id": "s1e2",
-      "tmdbId": 298026,
-      "season": 1,
       "episode": 2,
-      "title": "Episode 2",
+      "title": "A New World for Witches",
       "duration": "26m",
       "thumbnail": "https://image.tmdb.org/t/p/w500/eFP3aedVTC6aevy7GrQqg0Ts3IG.jpg",
       "server1": "https://drive.google.com/uc?export=download&id=1BsNQ2gN9tHrwaA8DgV6hbMz3D3rh4Enm",
       "server2": "https://leopard.hosting.pecon.us/dl/qjiog",
-      "download": ""
+      "download": "https://leopard.hosting.pecon.us/dl/qjiog"
     },
     {
       "id": "s1e3",
-      "tmdbId": 298026,
-      "season": 1,
       "episode": 3,
-      "title": "Episode 3",
+      "title": "Building the Wall and Meeting Nana",
       "duration": "26m",
       "thumbnail": "https://image.tmdb.org/t/p/w500/s3pIieC4gwjk5jfK6FoeSJfxBf4.jpg",
       "server1": "https://drive.google.com/uc?export=download&id=1BJA81Vw4yw6XwvmbuWB_8ogJy8x-RwTt",
       "server2": "https://leopard.hosting.pecon.us/dl/newda",
-      "download": ""
+      "download": "https://leopard.hosting.pecon.us/dl/newda"
     },
     {
       "id": "s1e4",
-      "tmdbId": 298026,
-      "season": 1,
       "episode": 4,
-      "title": "Episode 4",
+      "title": "Plans for Border Town",
       "duration": "26m",
       "thumbnail": "https://image.tmdb.org/t/p/w500/mvHbD25Hsbx52dBmJJx813alkw0.webp",
       "server1": "https://drive.google.com/uc?export=download&id=1E2WTZ7sJJV2RZGuFpJoM-rTuA9TLcn1G",
       "server2": "https://leopard.hosting.pecon.us/dl/wyimr",
-      "download": ""
+      "download": "https://leopard.hosting.pecon.us/dl/wyimr"
     },
     {
       "id": "s1e5",
-      "tmdbId": 298026,
-      "season": 1,
       "episode": 5,
-      "title": "Episode 5",
+      "title": "Anna Refuses to Leave",
       "duration": "26m",
       "thumbnail": "https://image.tmdb.org/t/p/w500/uoh2g9mPzf3qx36mU1E79Re5evx.webp",
       "server1": "https://drive.google.com/uc?export=download&id=1tUA8t6-6qWFctvPrNw0jn4ZANIlSpeGc",
       "server2": "https://leopard.hosting.pecon.us/dl/exwjr",
-      "download": ""
+      "download": "https://leopard.hosting.pecon.us/dl/exwjr"
     },
     {
       "id": "s1e6",
-      "tmdbId": 298026,
-      "season": 1,
       "episode": 6,
-      "title": "Episode 6",
+      "title": "Training the Militia",
       "duration": "26m",
       "thumbnail": "https://image.tmdb.org/t/p/w500/4Fny6jJIRn61SDJkGwAOefuJ57s.jpg",
       "server1": "https://drive.google.com/uc?export=download&id=1h_DPEw1QhRiLR7nQjmQEvJ_9sp9g4TiH",
       "server2": "https://leopard.hosting.pecon.us/dl/sotud",
-      "download": ""
+      "download": "https://leopard.hosting.pecon.us/dl/sotud"
     },
     {
       "id": "s1e7",
-      "tmdbId": 298026,
-      "season": 1,
       "episode": 7,
-      "title": "Episode 7",
+      "title": "The Plot Against Roland",
       "duration": "26m",
       "thumbnail": "https://image.tmdb.org/t/p/w500/wtorg25swL2oUy2NPDB5rYjEwen.jpg",
       "server1": "https://drive.google.com/uc?export=download&id=129Yl8a1U1pvOhoJmZNdLeTH_3qm5hEnv",
       "server2": "https://leopard.hosting.pecon.us/dl/usbmd",
-      "download": ""
+      "download": "https://leopard.hosting.pecon.us/dl/usbmd"
     },
     {
       "id": "s1e8",
-      "tmdbId": 298026,
-      "season": 1,
       "episode": 8,
-      "title": "Episode 8",
+      "title": "The Steam Engine and Tigui Pine",
       "duration": "26m",
       "thumbnail": "https://image.tmdb.org/t/p/w500/pPtz9EBc08GQ7yMr6wKJSbEvZIF.webp",
       "server1": "https://drive.google.com/uc?export=download&id=1iOHgtRSZdZqXt5A1TI_tND3I_xB8eBw-",
       "server2": "https://leopard.hosting.pecon.us/dl/eqqky",
-      "download": ""
+      "download": "https://leopard.hosting.pecon.us/dl/eqqky"
     }
   ]
 }
