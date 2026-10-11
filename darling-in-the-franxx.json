@@ -1,0 +1,244 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "episode": 1,
+      "title": "Alone and Lonesome",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1LbHFldlw3nnRRXa5xwtMw2PPSCdV8zQj",
+      "server2": "https://files.catbox.moe/mpebba.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1LbHFldlw3nnRRXa5xwtMw2PPSCdV8zQj"
+    },
+    {
+      "id": "s1e2",
+      "episode": 2,
+      "title": "What It Means to Connect",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1lT8u6GMhG6NM0aSw13Ym1oM-l6Jd6MJ0",
+      "server2": "https://files.catbox.moe/x2lapa.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1lT8u6GMhG6NM0aSw13Ym1oM-l6Jd6MJ0"
+    },
+    {
+      "id": "s1e3",
+      "episode": 3,
+      "title": "Fighting Puppet",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1iEVANBVhBpCSljrQxVvbecsgLTVRqHcu",
+      "server2": "https://files.catbox.moe/yqpd9f.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1iEVANBVhBpCSljrQxVvbecsgLTVRqHcu"
+    },
+    {
+      "id": "s1e4",
+      "episode": 4,
+      "title": "Flap-Flap",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1gduo2X2VUqtVXwI9Q1y60ASDTIFmv0c2",
+      "server2": "https://files.catbox.moe/3mwdme.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1gduo2X2VUqtVXwI9Q1y60ASDTIFmv0c2"
+    },
+    {
+      "id": "s1e5",
+      "episode": 5,
+      "title": "Your Thorn, My Badge",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1os0Uoi3LIp5yrI_zcb7sUhDzURFDYaXl",
+      "server2": "https://files.catbox.moe/qltt8z.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1os0Uoi3LIp5yrI_zcb7sUhDzURFDYaXl"
+    },
+    {
+      "id": "s1e6",
+      "episode": 6,
+      "title": "DARLING in the FRANXX",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1XpkM-92AZhWFXWYIRIQ-PlckVIZPJPLW",
+      "server2": "https://files.catbox.moe/ydg1e4.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1XpkM-92AZhWFXWYIRIQ-PlckVIZPJPLW"
+    },
+    {
+      "id": "s1e7",
+      "episode": 7,
+      "title": "Shooting Star Moratorium",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1fj7OZxX-3KbfdTQPtnlRriSzyjc-y2V_",
+      "server2": "https://files.catbox.moe/zxtuue.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1fj7OZxX-3KbfdTQPtnlRriSzyjc-y2V_"
+    },
+    {
+      "id": "s1e8",
+      "episode": 8,
+      "title": "Boys × Girls",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1AB9GlPhfewpzFg0W1PJ9w2eFUeQrTaFB",
+      "server2": "https://files.catbox.moe/52nhfy.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1AB9GlPhfewpzFg0W1PJ9w2eFUeQrTaFB"
+    },
+    {
+      "id": "s1e9",
+      "episode": 9,
+      "title": "Triangle Bomb",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1QMqkWKDDr5nLAupqspZnkuPgdg1VrACR",
+      "server2": "https://files.catbox.moe/ulzrfe.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1QMqkWKDDr5nLAupqspZnkuPgdg1VrACR"
+    },
+    {
+      "id": "s1e10",
+      "episode": 10,
+      "title": "The City of Eternity",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1GQ7rwc2tbZVgrw981-cZUuYUsRkhjwI0",
+      "server2": "https://files.catbox.moe/1ooyg7.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1GQ7rwc2tbZVgrw981-cZUuYUsRkhjwI0"
+    },
+    {
+      "id": "s1e11",
+      "episode": 11,
+      "title": "Partner Shuffle",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1-2_fGpzSUTg_2wfRduK_-TOiu7Z6P-X6",
+      "server2": "https://files.catbox.moe/uxaceq.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1-2_fGpzSUTg_2wfRduK_-TOiu7Z6P-X6"
+    },
+    {
+      "id": "s1e12",
+      "episode": 12,
+      "title": "The Garden Where It All Began",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=10CruwSy5K59WBuhLmQZ5ttfT9J9lshAq",
+      "server2": "https://files.catbox.moe/t8wly0.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=10CruwSy5K59WBuhLmQZ5ttfT9J9lshAq"
+    },
+    {
+      "id": "s1e13",
+      "episode": 13,
+      "title": "The Beast and the Prince",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1FjPaaoxo3U0tfSfp5CTCEjV4j6QDSNNi",
+      "server2": "https://files.catbox.moe/pr6g73.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1FjPaaoxo3U0tfSfp5CTCEjV4j6QDSNNi"
+    },
+    {
+      "id": "s1e14",
+      "episode": 14,
+      "title": "Punishment and Confession",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1tG1YSAk4IeKgp7I46a2Ou3gowvApN9XF",
+      "server2": "https://files.catbox.moe/dgqtyz.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1tG1YSAk4IeKgp7I46a2Ou3gowvApN9XF"
+    },
+    {
+      "id": "s1e15",
+      "episode": 15,
+      "title": "Jian",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1FbfLdScQSlYy7wJyqymKKCELO-ROCsHz",
+      "server2": "https://files.catbox.moe/vssyj0.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1FbfLdScQSlYy7wJyqymKKCELO-ROCsHz"
+    },
+    {
+      "id": "s1e16",
+      "episode": 16,
+      "title": "Days of Our Lives",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1hXvkBgSRbNIQQB3CgpSDCNXJv6HkdpSd",
+      "server2": "https://files.catbox.moe/sjtpay.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1hXvkBgSRbNIQQB3CgpSDCNXJv6HkdpSd"
+    },
+    {
+      "id": "s1e17",
+      "episode": 17,
+      "title": "Eden",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1-VkiwEIcos7Ep8LRjmhN5CiiIpJ4YaJG",
+      "server2": "https://files.catbox.moe/n0zdav.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1-VkiwEIcos7Ep8LRjmhN5CiiIpJ4YaJG"
+    },
+    {
+      "id": "s1e18",
+      "episode": 18,
+      "title": "When the Sakura Blooms",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1axvHgBXw7kC0IKSpkPY9Lb4Kp5p0QpTQ",
+      "server2": "https://files.catbox.moe/apw4d4.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1axvHgBXw7kC0IKSpkPY9Lb4Kp5p0QpTQ"
+    },
+    {
+      "id": "s1e19",
+      "episode": 19,
+      "title": "Inhumanity",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1AJIhTK9rYZ__FbyZUKpaCsDwQwMzHxls",
+      "server2": "https://files.catbox.moe/7zzq18.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1AJIhTK9rYZ__FbyZUKpaCsDwQwMzHxls"
+    },
+    {
+      "id": "s1e20",
+      "episode": 20,
+      "title": "The New World",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1Da1PZgzp7_1MNJiclg7iG-VadEY9Zla8",
+      "server2": "https://files.catbox.moe/blmuuw.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1Da1PZgzp7_1MNJiclg7iG-VadEY9Zla8"
+    },
+    {
+      "id": "s1e21",
+      "episode": 21,
+      "title": "For You, My Love",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1YcPXLpVuOG8xYglFEeuyU8Sr-1IYw9E-",
+      "server2": "https://files.catbox.moe/455edx.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1YcPXLpVuOG8xYglFEeuyU8Sr-1IYw9E-"
+    },
+    {
+      "id": "s1e22",
+      "episode": 22,
+      "title": "Stargazers",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1ws16HStGv2laVCQ1n9WSGa_Q4ifak7np",
+      "server2": "https://files.catbox.moe/p659z9.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1ws16HStGv2laVCQ1n9WSGa_Q4ifak7np"
+    },
+    {
+      "id": "s1e23",
+      "episode": 23,
+      "title": "DARLING in the FRANXX",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1ZyjQItwEb1B2ru0xCAhZfj83S_Lbhhoh",
+      "server2": "https://files.catbox.moe/xjth1e.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1ZyjQItwEb1B2ru0xCAhZfj83S_Lbhhoh"
+    },
+    {
+      "id": "s1e24",
+      "episode": 24,
+      "title": "Never Let Me Go",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+      "server1": "https://drive.google.com/uc?export=download&id=1iug6nvUpa_4tslDBzUra8kI2oRKOsV8I",
+      "server2": "https://files.catbox.moe/m53xk5.mkv",
+      "download": "https://drive.google.com/uc?export=download&id=1iug6nvUpa_4tslDBzUra8kI2oRKOsV8I"
+    }
+  ]
+}
