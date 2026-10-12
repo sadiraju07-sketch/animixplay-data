@@ -1,0 +1,644 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "episode": 1,
+      "title": "Fullmetal Alchemist",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1000304.jpg",
+      "server1": "https://drive.google.com/file/d/1sQd6vWGgAQvuZV-22OG2gz1sApc5BYiK/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/r46fmx.mkv",
+      "download": "https://drive.google.com/file/d/1sQd6vWGgAQvuZV-22OG2gz1sApc5BYiK/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e2",
+      "episode": 2,
+      "title": "The First Day",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1000305.jpg",
+      "server1": "https://drive.google.com/file/d/156GmGKPrhRLsYMfMX7Y7Lwb2uOjexwLq/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/eodpa5.mkv",
+      "download": "https://drive.google.com/file/d/156GmGKPrhRLsYMfMX7Y7Lwb2uOjexwLq/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e3",
+      "episode": 3,
+      "title": "City of Heresy",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1000601.jpg",
+      "server1": "https://drive.google.com/file/d/1j5AnX1AlSfddKk-ryKKBkpQcNFqj2ZOC/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/r3cqij.mkv",
+      "download": "https://drive.google.com/file/d/1j5AnX1AlSfddKk-ryKKBkpQcNFqj2ZOC/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e4",
+      "episode": 4,
+      "title": "An Alchemist's Anguish",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1000602.jpg",
+      "server1": "https://drive.google.com/file/d/13FriTPDsQ-ha8jTVLwbxUOpVUS1yW9Q5/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/fe8job.mkv",
+      "download": "https://drive.google.com/file/d/13FriTPDsQ-ha8jTVLwbxUOpVUS1yW9Q5/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e5",
+      "episode": 5,
+      "title": "Rain of Sorrows",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1000603.jpg",
+      "server1": "https://drive.google.com/file/d/1Xtng5m53Pjx4AV-oyPatDnYMz1FFvXn0/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/nas7lo.mkv",
+      "download": "https://drive.google.com/file/d/1Xtng5m53Pjx4AV-oyPatDnYMz1FFvXn0/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e6",
+      "episode": 6,
+      "title": "Road of Hope",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1000604.jpg",
+      "server1": "https://drive.google.com/file/d/1MPdIZKtYBekTWsHGrApFiAMGH6dsgEp0/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/wxcv7t.mkv",
+      "download": "https://drive.google.com/file/d/1MPdIZKtYBekTWsHGrApFiAMGH6dsgEp0/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e7",
+      "episode": 7,
+      "title": "Hidden Truths",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1000605.jpg",
+      "server1": "https://drive.google.com/file/d/1oUKctd_fJ3q_3Mzz_FT6ASDCKNiQWs10/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/rehzeq.mkv",
+      "download": "https://drive.google.com/file/d/1oUKctd_fJ3q_3Mzz_FT6ASDCKNiQWs10/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e8",
+      "episode": 8,
+      "title": "The Fifth Laboratory",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1000744.jpg",
+      "server1": "https://drive.google.com/file/d/15-xFQ8Wh1-T-aTCwdlfOSXm7wbG29dEC/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/cz8h4z.mkv",
+      "download": "https://drive.google.com/file/d/15-xFQ8Wh1-T-aTCwdlfOSXm7wbG29dEC/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e9",
+      "episode": 9,
+      "title": "Created Feelings",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1000747.jpg",
+      "server1": "https://drive.google.com/file/d/1CpsAz0WSw6dBUXn2BkdJHIGpHrgbgefW/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/81bayf.mkv",
+      "download": "https://drive.google.com/file/d/1CpsAz0WSw6dBUXn2BkdJHIGpHrgbgefW/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e10",
+      "episode": 10,
+      "title": "Separate Destinations",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001300.jpg",
+      "server1": "https://drive.google.com/file/d/1GTUcY6pi7DYTMF9x3EVUB1izanBonUEn/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/yvu353.mkv",
+      "download": "https://drive.google.com/file/d/1GTUcY6pi7DYTMF9x3EVUB1izanBonUEn/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e11",
+      "episode": 11,
+      "title": "Miracle at Rush Valley",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001302.jpg",
+      "server1": "https://drive.google.com/file/d/1YcygOYhlTFgRdDyVBiw50RKaFYgXmLgL/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/krod3c.mkv",
+      "download": "https://drive.google.com/file/d/1YcygOYhlTFgRdDyVBiw50RKaFYgXmLgL/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e12",
+      "episode": 12,
+      "title": "One Is All, All Is One",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001303.jpg",
+      "server1": "https://drive.google.com/file/d/1FIpLbVX2_IigxPBsEiOH-v6s3yYxhIYK/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/63ovfq.mkv",
+      "download": "https://drive.google.com/file/d/1FIpLbVX2_IigxPBsEiOH-v6s3yYxhIYK/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e13",
+      "episode": 13,
+      "title": "Beasts of Dublith",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001304.jpg",
+      "server1": "https://drive.google.com/file/d/1d7PpnZBBw8lGaVeYA80DNgEt_AHPr-ka/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/yh1uzq.mkv",
+      "download": "https://drive.google.com/file/d/1d7PpnZBBw8lGaVeYA80DNgEt_AHPr-ka/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e14",
+      "episode": 14,
+      "title": "Those Who Lurk Underground",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001308.jpg",
+      "server1": "https://drive.google.com/file/d/17hlJVNcgb3cTpSulvEW8VGZoww-owsiy/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/u8l48j.mkv",
+      "download": "https://drive.google.com/file/d/17hlJVNcgb3cTpSulvEW8VGZoww-owsiy/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e15",
+      "episode": 15,
+      "title": "Envoy from the East",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001309.jpg",
+      "server1": "https://drive.google.com/file/d/1l4uCArOsvhjMOts6ED_qHGEo56M0wo4S/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/95z641.mkv",
+      "download": "https://drive.google.com/file/d/1l4uCArOsvhjMOts6ED_qHGEo56M0wo4S/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e16",
+      "episode": 16,
+      "title": "Footsteps of a Comrade-in-Arms",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001310.jpg",
+      "server1": "https://drive.google.com/file/d/16jFLK66gmEGKODM7fpwQJ53NxYyytU_T/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/nb92u3.mkv",
+      "download": "https://drive.google.com/file/d/16jFLK66gmEGKODM7fpwQJ53NxYyytU_T/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e17",
+      "episode": 17,
+      "title": "Cold Flame",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001311.jpg",
+      "server1": "https://drive.google.com/file/d/1RDhri8WnOMvEWWDTDJZ6BCqB8WWl47jc/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/t43s3e.mkv",
+      "download": "https://drive.google.com/file/d/1RDhri8WnOMvEWWDTDJZ6BCqB8WWl47jc/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e18",
+      "episode": 18,
+      "title": "The Arrogant Palm of a Small Human",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001312.jpg",
+      "server1": "https://drive.google.com/file/d/1LzDqQIIDKotVQFRx6IXA3R1-CzMO4aII/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/20c799.mkv",
+      "download": "https://drive.google.com/file/d/1LzDqQIIDKotVQFRx6IXA3R1-CzMO4aII/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e19",
+      "episode": 19,
+      "title": "Death of the Undying",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001313.jpg",
+      "server1": "https://drive.google.com/file/d/19bKfLh1Hau87yT-dl25E8ogdS8U-vMrg/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/27g97f.mkv",
+      "download": "https://drive.google.com/file/d/19bKfLh1Hau87yT-dl25E8ogdS8U-vMrg/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e20",
+      "episode": 20,
+      "title": "Father Before the Grave",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001316.jpg",
+      "server1": "https://drive.google.com/file/d/1f-A42cRJfH3WU_eZgz_V7WiPoavMwF_t/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/j9lew7.mkv",
+      "download": "https://drive.google.com/file/d/1f-A42cRJfH3WU_eZgz_V7WiPoavMwF_t/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e21",
+      "episode": 21,
+      "title": "Advance of the Fool",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001317.jpg",
+      "server1": "https://drive.google.com/file/d/14Et8aSwM1udcUYNhujK1hhbBOTR2ya3k/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/zp060g.mkv",
+      "download": "https://drive.google.com/file/d/14Et8aSwM1udcUYNhujK1hhbBOTR2ya3k/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e22",
+      "episode": 22,
+      "title": "Backed into a Corner",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001318.jpg",
+      "server1": "https://drive.google.com/file/d/1RP-am_u5KSXZDaCw_R_cwRR9SRbw2Qlr/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/7p6dni.mkv",
+      "download": "https://drive.google.com/file/d/1RP-am_u5KSXZDaCw_R_cwRR9SRbw2Qlr/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e23",
+      "episode": 23,
+      "title": "Girl on the Battlefield",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001319.jpg",
+      "server1": "https://drive.google.com/file/d/1eDUkcAceU2SRCnDNyH5HILz1z102LCGq/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/enptro.mkv",
+      "download": "https://drive.google.com/file/d/1eDUkcAceU2SRCnDNyH5HILz1z102LCGq/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e24",
+      "episode": 24,
+      "title": "Inside the Belly",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001320.jpg",
+      "server1": "https://drive.google.com/file/d/1KslOrcU3lolqOqoGOO3ZrNADqi7l7nJ6/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/c8mqzk.mkv",
+      "download": "https://drive.google.com/file/d/1KslOrcU3lolqOqoGOO3ZrNADqi7l7nJ6/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e25",
+      "episode": 25,
+      "title": "Doorway of Darkness",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001321.jpg",
+      "server1": "https://drive.google.com/file/d/143iDtUWRbMVGRoaoNRkNTR6ItzIrLbiL/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/tcu4p9.mkv",
+      "download": "https://drive.google.com/file/d/143iDtUWRbMVGRoaoNRkNTR6ItzIrLbiL/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e26",
+      "episode": 26,
+      "title": "Reunion",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001322.jpg",
+      "server1": "https://drive.google.com/file/d/1iDbldb1FviWHkE-_H_g7DL-I1FSrkH8w/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/0a90cl.mkv",
+      "download": "https://drive.google.com/file/d/1iDbldb1FviWHkE-_H_g7DL-I1FSrkH8w/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e27",
+      "episode": 27,
+      "title": "Interlude Party",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001324.jpg",
+      "server1": "https://drive.google.com/file/d/1cq9mhmM4Kq7QtQq49Am4rRI0XRGj_caX/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/rjeudy.mkv",
+      "download": "https://drive.google.com/file/d/1cq9mhmM4Kq7QtQq49Am4rRI0XRGj_caX/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e28",
+      "episode": 28,
+      "title": "Father",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001325.jpg",
+      "server1": "https://drive.google.com/file/d/1QIOLs-R_BHzNuAwPqmoxb1BuCGi5CreZ/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/px6l1z.mkv",
+      "download": "https://drive.google.com/file/d/1QIOLs-R_BHzNuAwPqmoxb1BuCGi5CreZ/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e29",
+      "episode": 29,
+      "title": "Struggle of the Fool",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001326.jpg",
+      "server1": "https://drive.google.com/file/d/1BBA21C69T7rI-tVg_hrVqScgBN_2WUaT/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/fftmgg.mkv",
+      "download": "https://drive.google.com/file/d/1BBA21C69T7rI-tVg_hrVqScgBN_2WUaT/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e30",
+      "episode": 30,
+      "title": "The Ishvalan War of Extermination",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001327.jpg",
+      "server1": "https://drive.google.com/file/d/15maic7mBMw2q4ZcN1uhmfKZkpQ77uor4/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/2as466.mkv",
+      "download": "https://drive.google.com/file/d/15maic7mBMw2q4ZcN1uhmfKZkpQ77uor4/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e31",
+      "episode": 31,
+      "title": "The 520 Cens Promise",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001328.jpg",
+      "server1": "https://drive.google.com/file/d/1yFTSvjbHrPKt6Iktq2NzAVJ6EUh9RsE4/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/vfqgm1.mkv",
+      "download": "https://drive.google.com/file/d/1yFTSvjbHrPKt6Iktq2NzAVJ6EUh9RsE4/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e32",
+      "episode": 32,
+      "title": "The Führer's Son",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001329.jpg",
+      "server1": "https://drive.google.com/file/d/1lq1J68xhEmMG1IUXy3A47sAFKf_HUCLf/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/8h1v4d.mkv",
+      "download": "https://drive.google.com/file/d/1lq1J68xhEmMG1IUXy3A47sAFKf_HUCLf/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e33",
+      "episode": 33,
+      "title": "The Northern Wall of Briggs",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001330.jpg",
+      "server1": "https://drive.google.com/file/d/1lQBCgOj-WTq0qT3QfnMcnuyhafRx_6AN/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/9vqlaf.mkv",
+      "download": "https://drive.google.com/file/d/1lQBCgOj-WTq0qT3QfnMcnuyhafRx_6AN/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e34",
+      "episode": 34,
+      "title": "Ice Queen",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001331.jpg",
+      "server1": "https://drive.google.com/file/d/12cAP66O1B6wGUV1K8snVaKCBVvhe0GBk/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/l5gcdr.mkv",
+      "download": "https://drive.google.com/file/d/12cAP66O1B6wGUV1K8snVaKCBVvhe0GBk/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e35",
+      "episode": 35,
+      "title": "The Shape of This Country",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001332.jpg",
+      "server1": "https://drive.google.com/file/d/1pQ8mDx2sujHfGbT9PNLa5u5X6rOXRou-/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/k5p7nd.mkv",
+      "download": "https://drive.google.com/file/d/1pQ8mDx2sujHfGbT9PNLa5u5X6rOXRou-/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e36",
+      "episode": 36,
+      "title": "Family Portrait",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001333.jpg",
+      "server1": "https://drive.google.com/file/d/1WM3ARHuEoZaLUyMSkYySJgJHcq1S_-DT/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/ntsldj.mkv",
+      "download": "https://drive.google.com/file/d/1WM3ARHuEoZaLUyMSkYySJgJHcq1S_-DT/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e37",
+      "episode": 37,
+      "title": "The First Homunculus",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001334.jpg",
+      "server1": "https://drive.google.com/file/d/1T2Oe-rki85Y77xbRjqPEAAifWPSoJT7N/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/idmq09.mkv",
+      "download": "https://drive.google.com/file/d/1T2Oe-rki85Y77xbRjqPEAAifWPSoJT7N/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e38",
+      "episode": 38,
+      "title": "Conflict at Baschool",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001335.jpg",
+      "server1": "https://drive.google.com/file/d/1Gna-DXPVwdaeVrxMwRRD5SIrpCM42eye/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/2v24bk.mkv",
+      "download": "https://drive.google.com/file/d/1Gna-DXPVwdaeVrxMwRRD5SIrpCM42eye/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e39",
+      "episode": 39,
+      "title": "Daydream",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001336.jpg",
+      "server1": "https://drive.google.com/file/d/1nYibiAyJWVl2gzJFtEkYpVuvCqBarVTQ/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/m9nq75.mkv",
+      "download": "https://drive.google.com/file/d/1nYibiAyJWVl2gzJFtEkYpVuvCqBarVTQ/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e40",
+      "episode": 40,
+      "title": "The Dwarf in the Flask",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001337.jpg",
+      "server1": "https://drive.google.com/file/d/1b9YBJ0HHkAAUwn4o0lUd2gmXaLSEgVco/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/2f1dxw.mkv",
+      "download": "https://drive.google.com/file/d/1b9YBJ0HHkAAUwn4o0lUd2gmXaLSEgVco/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e41",
+      "episode": 41,
+      "title": "The Abyss",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001351.jpg",
+      "server1": "https://drive.google.com/file/d/1AX1brbKCjsqU9c1e-auIBDjhF5Z328u3/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/kj6o00.mkv",
+      "download": "https://drive.google.com/file/d/1AX1brbKCjsqU9c1e-auIBDjhF5Z328u3/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e42",
+      "episode": 42,
+      "title": "Signs of a Counteroffensive",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001352.jpg",
+      "server1": "https://drive.google.com/file/d/11Vp3-BfyNGCoZhVFYVX7g9wbEOF9izAx/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/lmqnhb.mkv",
+      "download": "https://drive.google.com/file/d/11Vp3-BfyNGCoZhVFYVX7g9wbEOF9izAx/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e43",
+      "episode": 43,
+      "title": "Bite of the Ant",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001353.jpg",
+      "server1": "https://drive.google.com/file/d/16HyGkGYcq_-e8Fskyu9BuWEUlTSeY4yq/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/56fdrj.mkv",
+      "download": "https://drive.google.com/file/d/16HyGkGYcq_-e8Fskyu9BuWEUlTSeY4yq/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e44",
+      "episode": 44,
+      "title": "Revving at Full Throttle",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001354.jpg",
+      "server1": "https://drive.google.com/file/d/1wl3rcHhJ7kJkthnSUeE992PQR7Wls3dP/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/nokrmr.mkv",
+      "download": "https://drive.google.com/file/d/1wl3rcHhJ7kJkthnSUeE992PQR7Wls3dP/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e45",
+      "episode": 45,
+      "title": "The Promised Day",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001355.jpg",
+      "server1": "https://drive.google.com/file/d/1ayFYaLOhIv_x8FCr-bT-CM2UA1OKcqTb/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/l5p026.mkv",
+      "download": "https://drive.google.com/file/d/1ayFYaLOhIv_x8FCr-bT-CM2UA1OKcqTb/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e46",
+      "episode": 46,
+      "title": "Looming Shadows",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001356.jpg",
+      "server1": "https://drive.google.com/file/d/1qfjmjH_MA-7trq9VFmOCfJaY63NSrzFJ/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/b27whd.mkv",
+      "download": "https://drive.google.com/file/d/1qfjmjH_MA-7trq9VFmOCfJaY63NSrzFJ/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e47",
+      "episode": 47,
+      "title": "Emissary of Darkness",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001357.jpg",
+      "server1": "https://drive.google.com/file/d/1JrKIyjlX1whY4G5cWhjPoWokEWc347I5/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/92drl0.mkv",
+      "download": "https://drive.google.com/file/d/1JrKIyjlX1whY4G5cWhjPoWokEWc347I5/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e48",
+      "episode": 48,
+      "title": "The Oath in the Tunnel",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001358.jpg",
+      "server1": "https://drive.google.com/file/d/1wIGbQ8tSrhJy6BodS2QBOYt6pkAkvSvX/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/uwqih8.mkv",
+      "download": "https://drive.google.com/file/d/1wIGbQ8tSrhJy6BodS2QBOYt6pkAkvSvX/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e49",
+      "episode": 49,
+      "title": "Filial Affection",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001359.jpg",
+      "server1": "https://drive.google.com/file/d/1VPACkFE-pB2Iai2nDwuquJ5sZ4uES6R6/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/k316gy.mkv",
+      "download": "https://drive.google.com/file/d/1VPACkFE-pB2Iai2nDwuquJ5sZ4uES6R6/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e50",
+      "episode": 50,
+      "title": "Upheaval in Central",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001360.jpg",
+      "server1": "https://drive.google.com/file/d/11mAMnpJqEa91ik2rb5yHCnopzlNSmCKC/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/963ww0.mkv",
+      "download": "https://drive.google.com/file/d/11mAMnpJqEa91ik2rb5yHCnopzlNSmCKC/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e51",
+      "episode": 51,
+      "title": "The Immortal Legion",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001362.jpg",
+      "server1": "https://drive.google.com/file/d/1BWdmfZV0xBwvAbr2Rlb4UdLmk81u6hjq/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/09rtxu.mkv",
+      "download": "https://drive.google.com/file/d/1BWdmfZV0xBwvAbr2Rlb4UdLmk81u6hjq/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e52",
+      "episode": 52,
+      "title": "Combined Strength",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001363.jpg",
+      "server1": "https://drive.google.com/file/d/1MPi_ZnSnl-wcwiuhmleNMA5C6BOS5MqU/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/blsguw.mkv",
+      "download": "https://drive.google.com/file/d/1MPi_ZnSnl-wcwiuhmleNMA5C6BOS5MqU/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e53",
+      "episode": 53,
+      "title": "Flame of Vengeance",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001364.jpg",
+      "server1": "https://drive.google.com/file/d/193RBXeZNTrUwlqdc_Mg77uMP_5kB8qdN/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/0zg4jz.mkv",
+      "download": "https://drive.google.com/file/d/193RBXeZNTrUwlqdc_Mg77uMP_5kB8qdN/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e54",
+      "episode": 54,
+      "title": "Beyond the Inferno",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001365.jpg",
+      "server1": "https://drive.google.com/file/d/1XwE9OwCZMTF_KRqXoBdiKWqAjoobR5fI/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/p9gomv.mkv",
+      "download": "https://drive.google.com/file/d/1XwE9OwCZMTF_KRqXoBdiKWqAjoobR5fI/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e55",
+      "episode": 55,
+      "title": "The Adults' Way of Life",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001366.jpg",
+      "server1": "https://drive.google.com/file/d/1I7OIqZVJweEbxSip0rLkoj5S3ubg37Xa/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/pwszhf.mkv",
+      "download": "https://drive.google.com/file/d/1I7OIqZVJweEbxSip0rLkoj5S3ubg37Xa/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e56",
+      "episode": 56,
+      "title": "The Return of the Führer",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001367.jpg",
+      "server1": "https://drive.google.com/file/d/1qFkXGkEh6ZJrbSSbD6ewTj5NBjln_0Zh/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/j9pbu6.mkv",
+      "download": "https://drive.google.com/file/d/1qFkXGkEh6ZJrbSSbD6ewTj5NBjln_0Zh/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e57",
+      "episode": 57,
+      "title": "Eternal Leave",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001368.jpg",
+      "server1": "https://drive.google.com/file/d/1Z1uv3FeW_PRP6P_MCnhWn50WuMIcDbcG/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/1i3cog.mkv",
+      "download": "https://drive.google.com/file/d/1Z1uv3FeW_PRP6P_MCnhWn50WuMIcDbcG/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e58",
+      "episode": 58,
+      "title": "Sacrifices",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001369.jpg",
+      "server1": "https://drive.google.com/file/d/1Fs-kXTBAF8MtZYT5kteOUjjONafXE6AQ/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/pu9p29.mkv",
+      "download": "https://drive.google.com/file/d/1Fs-kXTBAF8MtZYT5kteOUjjONafXE6AQ/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e59",
+      "episode": 59,
+      "title": "Lost Light",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001370.jpg",
+      "server1": "https://drive.google.com/file/d/1Lwt0t7cJT8ZCJKYHr0Ck02Im_Xdj0LdF/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/gum5i8.mkv",
+      "download": "https://drive.google.com/file/d/1Lwt0t7cJT8ZCJKYHr0Ck02Im_Xdj0LdF/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e60",
+      "episode": 60,
+      "title": "Eye of Heaven, Gateway of Earth",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001371.jpg",
+      "server1": "https://drive.google.com/file/d/1CaeTwW3Ltff1MF0h6EmO_xF76Vdbvko_/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/664iug.mkv",
+      "download": "https://drive.google.com/file/d/1CaeTwW3Ltff1MF0h6EmO_xF76Vdbvko_/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e61",
+      "episode": 61,
+      "title": "He Who Would Swallow God",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001372.jpg",
+      "server1": "https://drive.google.com/file/d/1g0SSaxqvDf3EDa81RbTvKK0v-fRxi0WM/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/1cx2pv.mkv",
+      "download": "https://drive.google.com/file/d/1g0SSaxqvDf3EDa81RbTvKK0v-fRxi0WM/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e62",
+      "episode": 62,
+      "title": "A Fierce Counterattack",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001373.jpg",
+      "server1": "https://drive.google.com/file/d/1CaXpaxAEblv7IM2VFWk48Fsaj-TJP-I5/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/23qx1s.mkv",
+      "download": "https://drive.google.com/file/d/1CaXpaxAEblv7IM2VFWk48Fsaj-TJP-I5/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e63",
+      "episode": 63,
+      "title": "The Other Side of the Gateway",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001374.jpg",
+      "server1": "https://drive.google.com/file/d/1qpsilJupAHurKdF4u_brE1kT5wngenb9/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/p6taqh.mkv",
+      "download": "https://drive.google.com/file/d/1qpsilJupAHurKdF4u_brE1kT5wngenb9/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e64",
+      "episode": 64,
+      "title": "Journey's End",
+      "duration": "25m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001375.jpg",
+      "server1": "https://drive.google.com/file/d/184Z3fwKp2iWCjH_cXO74VI2EIUrPCYhz/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/m64wty.mkv",
+      "download": "https://drive.google.com/file/d/184Z3fwKp2iWCjH_cXO74VI2EIUrPCYhz/view?usp=drivesdk"
+    }
+  ]
+}
