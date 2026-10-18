@@ -1,0 +1,234 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "episode": 1,
+      "title": "The Man Who Became a Kaiju",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/1/1.jpg",
+      "server1": "https://drive.google.com/file/d/16-ZbX7UIUhes-cpm3LzDwh-kHXGjPx4Z/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/hkzz9a.mkv",
+      "download": "https://files.catbox.moe/hkzz9a.mkv"
+    },
+    {
+      "id": "s1e2",
+      "episode": 2,
+      "title": "The Kaiju Who Defeats Kaiju",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/2/1.jpg",
+      "server1": "https://drive.google.com/file/d/19H3ImMx8Ox135GAR9tzTTaS481AbrswK/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/rdcf5n.mkv",
+      "download": "https://files.catbox.moe/rdcf5n.mkv"
+    },
+    {
+      "id": "s1e3",
+      "episode": 3,
+      "title": "Revenge Match",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/3/1.jpg",
+      "server1": "https://drive.google.com/file/d/1NCb8RKvH1eCtla80t0YijA3RQAXs4-_V/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/woi5py.mp4",
+      "download": "https://files.catbox.moe/woi5py.mp4"
+    },
+    {
+      "id": "s1e4",
+      "episode": 4,
+      "title": "Fortitude 9.8",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/4/1.jpg",
+      "server1": "https://drive.google.com/file/d/1NroLB5-sI0BZUu4tdjRdnifQWu7Bd-EN/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/65yk06.mkv",
+      "download": "https://files.catbox.moe/65yk06.mkv"
+    },
+    {
+      "id": "s1e5",
+      "episode": 5,
+      "title": "Joining Up!",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/5/1.jpg",
+      "server1": "https://drive.google.com/file/d/1-Q6Y4qCfltSL8K0S7YpYt0R-vl3r1Njl/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/wigbxs.mkv",
+      "download": "https://files.catbox.moe/wigbxs.mkv"
+    },
+    {
+      "id": "s1e6",
+      "episode": 6,
+      "title": "Sagamihara Neutralization Operation At Daybreak",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/6/1.jpg",
+      "server1": "https://drive.google.com/file/d/1Y4GEz6GruOWh6pFmIP0eQFQMzUoeKN-S/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/qpe6un.mkv",
+      "download": "https://files.catbox.moe/qpe6un.mkv"
+    },
+    {
+      "id": "s1e7",
+      "episode": 7,
+      "title": "Kaiju No. 9",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/7/1.jpg",
+      "server1": "https://drive.google.com/file/d/1rWUvGvFpune0OpnfSZysm-4YC7Romwls/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/kestn7.mkv",
+      "download": "https://files.catbox.moe/kestn7.mkv"
+    },
+    {
+      "id": "s1e8",
+      "episode": 8,
+      "title": "Welcome to the Defense Force",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/8/1.jpg",
+      "server1": "https://drive.google.com/file/d/1L2CWht1sJjWaO2uBKk1YtgB6x5bQfiez/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/975jgt.mkv",
+      "download": "https://files.catbox.moe/975jgt.mkv"
+    },
+    {
+      "id": "s1e9",
+      "episode": 9,
+      "title": "Raid on Tachikawa Base",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/9/1.jpg",
+      "server1": "https://drive.google.com/file/d/1pNDRD4norm8h94QnqDUn-68-pvuA4ei-/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/jvw549.mkv",
+      "download": "https://files.catbox.moe/jvw549.mkv"
+    },
+    {
+      "id": "s1e10",
+      "episode": 10,
+      "title": "Secret Revealed",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/10/1.jpg",
+      "server1": "https://drive.google.com/file/d/1Zro2qawtJvNkm2IFvLVgL5-RMbCRF_G9/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/94lpz3.mkv",
+      "download": "https://files.catbox.moe/94lpz3.mkv"
+    },
+    {
+      "id": "s1e11",
+      "episode": 11,
+      "title": "Kaiju No. 8 Captured",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/11/1.jpg",
+      "server1": "https://drive.google.com/file/d/19b7H_DhBxgyB8qcJaqGyPK7Ycnhl2YTq/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/xaficy.mkv",
+      "download": "https://files.catbox.moe/xaficy.mkv"
+    },
+    {
+      "id": "s1e12",
+      "episode": 12,
+      "title": "Kafka Hibino",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/12/1.jpg",
+      "server1": "https://drive.google.com/file/d/1CdT3F2cK3Rheu-SOph2owHa9J4Kz1ZYP/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/kcfrwi.mkv",
+      "download": "https://files.catbox.moe/kcfrwi.mkv"
+    },
+    {
+      "id": "s1e13",
+      "episode": 13,
+      "title": "Kaiju Weapon",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/13/1.jpg",
+      "server1": "https://sourcemirrors.org/hosted/73236-kaijuno.8s02e01.mp4",
+      "server2": "https://files.catbox.moe/nygbvj.mkv",
+      "download": "https://files.catbox.moe/nygbvj.mkv"
+    },
+    {
+      "id": "s1e14",
+      "episode": 14,
+      "title": "The Next Generation’s Trial",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/14/1.jpg",
+      "server1": "https://sourcemirrors.org/hosted/45803-kaijuno.8s02e02.mp4",
+      "server2": "https://files.catbox.moe/4p4li5.mkv",
+      "download": "https://files.catbox.moe/4p4li5.mkv"
+    },
+    {
+      "id": "s1e15",
+      "episode": 15,
+      "title": "The Strongest Division",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/15/1.jpg",
+      "server1": "https://sourcemirrors.org/hosted/60071-kaijuno.8s02e03.mp4",
+      "server2": "https://files.catbox.moe/1xiow9.mkv",
+      "download": "https://files.catbox.moe/1xiow9.mkv"
+    },
+    {
+      "id": "s1e16",
+      "episode": 16,
+      "title": "The Man Called Isao Shinomiya",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/16/1.jpg",
+      "server1": "https://sourcemirrors.org/hosted/78826-kaijuno.8s02e04.mp4",
+      "server2": "https://files.catbox.moe/8rz3r4.mkv",
+      "download": "https://files.catbox.moe/8rz3r4.mkv"
+    },
+    {
+      "id": "s1e17",
+      "episode": 17,
+      "title": "I Want to Be Strong",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/17/1.jpg",
+      "server1": "https://sourcemirrors.org/hosted/37788-kaijuno.8s02e05.mp4",
+      "server2": "https://files.catbox.moe/ecbfum.mkv",
+      "download": "https://files.catbox.moe/ecbfum.mkv"
+    },
+    {
+      "id": "s1e18",
+      "episode": 18,
+      "title": "Compatible User",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/18/1.jpg",
+      "server1": "https://sourcemirrors.org/hosted/44877-kaijuno.8s02e06.mp4",
+      "server2": "https://files.catbox.moe/zbgy5r.mkv",
+      "download": "https://files.catbox.moe/zbgy5r.mkv"
+    },
+    {
+      "id": "s1e19",
+      "episode": 19,
+      "title": "Wall",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/19/1.jpg",
+      "server1": "https://sourcemirrors.org/hosted/83488-kaijuno.8s02e07.mp4",
+      "server2": "https://files.catbox.moe/ff7gil.mkv",
+      "download": "https://files.catbox.moe/ff7gil.mkv"
+    },
+    {
+      "id": "s1e20",
+      "episode": 20,
+      "title": "Destiny",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/20/1.jpg",
+      "server1": "https://sourcemirrors.org/hosted/25564-kaijuno.8s02e08.mp4",
+      "server2": "https://files.catbox.moe/w7wtrq.mkv",
+      "download": "https://files.catbox.moe/w7wtrq.mkv"
+    },
+    {
+      "id": "s1e21",
+      "episode": 21,
+      "title": "Omen",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/21/1.jpg",
+      "server1": "https://sourcemirrors.org/hosted/82945-kaijuno.8s02e09.mp4",
+      "server2": "https://files.catbox.moe/g4we37.mkv",
+      "download": "https://files.catbox.moe/g4we37.mkv"
+    },
+    {
+      "id": "s1e22",
+      "episode": 22,
+      "title": "Cataclysms",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/22/1.jpg",
+      "server1": "https://sourcemirrors.org/hosted/49539-kaijuno.8s02e10.mp4",
+      "server2": "https://files.catbox.moe/og2qqi.mkv",
+      "download": "https://files.catbox.moe/og2qqi.mkv"
+    },
+    {
+      "id": "s1e23",
+      "episode": 23,
+      "title": "Second Wave",
+      "duration": "24m",
+      "thumbnail": "https://kaiju-no8.net/en/episodes/img/23/1.jpg",
+      "server1": "https://sourcemirrors.org/hosted/29088-kaijuno.8s02e11.mp4",
+      "server2": "https://files.catbox.moe/p46xhw.mkv",
+      "download": "https://files.catbox.moe/p46xhw.mkv"
+    }
+  ]
+}
