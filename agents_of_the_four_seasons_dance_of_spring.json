@@ -1,0 +1,172 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 1,
+      "title": "The Dance of Spring",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1GEvx3sB0ReCpfBRRajbvfVA6SLtjI4Ht/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/awczf9.mkv",
+      "download": "https://files.catbox.moe/awczf9.mkv"
+    },
+    {
+      "id": "s1e2",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 2,
+      "title": "Lingering Snow",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1iV7EN_H0NIjbRqh4s5AFwN_bhJnzC0sr/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/qskl2r.mkv",
+      "download": "https://files.catbox.moe/qskl2r.mkv"
+    },
+    {
+      "id": "s1e3",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 3,
+      "title": "A Glimpse",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/13IYbC-bo6n-J3xEDIRfwMoZTgFZHeNXl/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/9yjout.mkv",
+      "download": "https://files.catbox.moe/9yjout.mkv"
+    },
+    {
+      "id": "s1e4",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 4,
+      "title": "Morning Calm",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/11wL-6rhzG83NOQ7IeCwoRvOFVLSoz7HE/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/r0kawj.mkv",
+      "download": "https://files.catbox.moe/r0kawj.mkv"
+    },
+    {
+      "id": "s1e5",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 5,
+      "title": "Alone Together",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1qIvP-uOlawL9DjfWfI7gO2PaOf21NcZB/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/8mmxz2.mkv",
+      "download": "https://files.catbox.moe/8mmxz2.mkv"
+    },
+    {
+      "id": "s1e6",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 6,
+      "title": "A Place to Call Home",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1BfelAKZ-wCNt_TjWcwva6Ily4AyBinBK/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/gfyj5b.mkv",
+      "download": "https://files.catbox.moe/gfyj5b.mkv"
+    },
+    {
+      "id": "s1e7",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 7,
+      "title": "Dusk",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1hVEAkHVBDqU7Bt6rTVvUN15FcqdtXlbW/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/hqwgzn.mkv",
+      "download": "https://files.catbox.moe/hqwgzn.mkv"
+    },
+    {
+      "id": "s1e8",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 8,
+      "title": "Spring Rain",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1kFQYJIlR-F3CHugqKE7LUGLzMyfaHGPd/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/5q15x1.mkv",
+      "download": "https://files.catbox.moe/5q15x1.mkv"
+    },
+    {
+      "id": "s1e9",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 9,
+      "title": "United Front",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1OPI7hr6IjuM3IUT9dADFp_RC2k0MdhZf/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/yivlxk.mkv",
+      "download": "https://files.catbox.moe/yivlxk.mkv"
+    },
+    {
+      "id": "s1e10",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 10,
+      "title": "Afterimage",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1Ma5YMUcu2eB05RJpbsSSDAVGZPWSUQOJ/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/zzqjmr.mkv",
+      "download": "https://files.catbox.moe/zzqjmr.mkv"
+    },
+    {
+      "id": "s1e11",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 11,
+      "title": "Impatience",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1l6YlZoP3wa7XJcgF9-bGC_0oXuHbSxoP/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/jb6ywq.mkv",
+      "download": "https://files.catbox.moe/jb6ywq.mkv"
+    },
+    {
+      "id": "s1e12",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 12,
+      "title": "Assault",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1pJ4yhSFuUG0fU6kJZC-QNZ1bE1yBIUTA/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/vilzoe.mkv",
+      "download": "https://files.catbox.moe/vilzoe.mkv"
+    },
+    {
+      "id": "s1e13",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 13,
+      "title": "Recapture",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1kV1HBVYekIwxm4MwoBSQ1Wxf3iyWLK-t/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/kif3zs.mkv",
+      "download": "https://files.catbox.moe/kif3zs.mkv"
+    },
+    {
+      "id": "s1e14",
+      "tmdbId": 288659,
+      "season": 1,
+      "episode": 14,
+      "title": "Spring Flowers Bloom in Winter",
+      "duration": "23m",
+      "thumbnail": "https://www.ludoani.com/image/anime_poster_image_20260219151808303505.webp?w=500",
+      "server1": "https://drive.google.com/file/d/1PXYuU0Jvmir9mLYA6GWfY2lR5RB4U_if/view?usp=drivesdk",
+      "server2": "https://files.catbox.moe/2j1knr.mkv",
+      "download": "https://files.catbox.moe/2j1knr.mkv"
+    }
+  ]
+}
