@@ -273,12 +273,22 @@
     {
       "id": "s1e28",
       "episode": 28,
-      "title": "Episode 28",
+      "title": "They're One and the Same",
       "duration": "24m",
       "thumbnail": "",
       "server1": "https://drive.google.com/file/d/16SvfKtlr1GdQqQ_VcGCJy3tTCEadi7W7/view?usp=drivesdk",
       "server2": "https://leopard.hosting.pecon.us/dl/rpdmt",
       "download": "https://leopard.hosting.pecon.us/dl/rpdmt"
+    },
+    {
+      "id": "s1e29",
+      "episode": 29,
+      "title": "Love Is the Most Powerful Feeling",
+      "duration": "24m",
+      "thumbnail": "https://media.themoviedb.org/t/p/w640_and_h360_face/7CjZYtAnNIRfarJhDdnlJB1JJIX.jpg",
+      "server1": "https://drive.google.com/file/d/1fnwC7O6RKRZeoW-_a139BN_sdfgFFyWa/view?usp=drivesdk",
+      "server2": "https://kappa.lol/WDz6Nl",
+      "download": "https://kappa.lol/WDz6Nl"
     }
   ]
 }
