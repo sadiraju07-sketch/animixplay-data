@@ -289,6 +289,17 @@
       "server1": "https://drive.google.com/file/d/1fnwC7O6RKRZeoW-_a139BN_sdfgFFyWa/view?usp=drivesdk",
       "server2": "https://kappa.lol/WDz6Nl",
       "download": "https://kappa.lol/WDz6Nl"
-    }
+    },
+    {
+  "id": "s1e30",
+  "episode": 30,
+  "title": "It's Back",
+  "duration": "24m",
+  "thumbnail": "https://media.themoviedb.org/t/p/w640_and_h360_face/c83QAXrIQ7C3Qs2CoBupoXMGDwM.jpg",
+  "server1": "https://drive.google.com/file/d/1yIrcCVWTe8kExbM1Xl1Z7mCnn4_0R9ZQ/view?usp=drivesdk",
+  "server2": "https://kappa.lol/USFC12",
+  "download": "https://kappa.lol/USFC12"
+}
+    
   ]
 }
