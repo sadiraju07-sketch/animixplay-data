@@ -218,7 +218,7 @@
       "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
       "server1": "https://files.catbox.moe/67caqx.mp4",
       "server2": "https://archive.org/download/12_20260825/22.mp4",
-      "download": "https://archive.org/download/12_20260825/22.mkv"
+      "download": "https://archive.org/download/12_20260825/22.mkv",
     },
     {
       "id": "s1e23",
@@ -228,7 +228,7 @@
       "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
       "server1": "https://files.catbox.moe/m24vvr.mp4",
       "server2": "https://archive.org/download/12_20260825/23.mp4",
-      "download": "https://archive.org/download/12_20260825/23.mkv"
+      "download": "https://archive.org/download/12_20260825/23.mkv",
     },
     {
       "id": "s1e24",
@@ -238,7 +238,7 @@
       "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
       "server1": "https://files.catbox.moe/63jkdy.mp4",
       "server2": "https://archive.org/download/12_20260825/24.mp4",
-      "download": "https://archive.org/download/12_20260825/24.mkv"
+      "download": "https://archive.org/download/12_20260825/24.mkv",
     },
     {
       "id": "s1e25",
@@ -248,7 +248,7 @@
       "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
       "server1": "https://files.catbox.moe/v6or5b.mp4",
       "server2": "https://archive.org/download/12_20260825/25.mp4",
-      "download": "https://archive.org/download/12_20260825/25.mkv"
+      "download": "https://archive.org/download/12_20260825/25.mkv",
     },
     {
       "id": "s1e26",
@@ -258,7 +258,7 @@
       "thumbnail": "",
       "server1": "https://drive.google.com/file/d/1NEUOJQKhx38hfrLNltXzIixCekJsUmKp/view?usp=drivesdk",
       "server2": "https://leopard.hosting.pecon.us/dl/loqtf",
-      "download": "https://leopard.hosting.pecon.us/dl/loqtf"
+      "download": "https://leopard.hosting.pecon.us/dl/loqtf",
     },
     {
       "id": "s1e27",
@@ -268,7 +268,7 @@
       "thumbnail": "",
       "server1": "https://drive.google.com/file/d/1MIrMN1CnP1Tmf2yO3nre4NdKhpZqjVgQ/view?usp=drivesdk",
       "server2": "https://leopard.hosting.pecon.us/dl/cqqff",
-      "download": "https://leopard.hosting.pecon.us/dl/cqqff"
+      "download": "https://leopard.hosting.pecon.us/dl/cqqff",
     },
     {
       "id": "s1e28",
@@ -278,7 +278,7 @@
       "thumbnail": "",
       "server1": "https://drive.google.com/file/d/16SvfKtlr1GdQqQ_VcGCJy3tTCEadi7W7/view?usp=drivesdk",
       "server2": "https://leopard.hosting.pecon.us/dl/rpdmt",
-      "download": "https://leopard.hosting.pecon.us/dl/rpdmt"
+      "download": "https://leopard.hosting.pecon.us/dl/rpdmt",
     },
     {
       "id": "s1e29",
@@ -288,7 +288,7 @@
       "thumbnail": "https://media.themoviedb.org/t/p/w640_and_h360_face/7CjZYtAnNIRfarJhDdnlJB1JJIX.jpg",
       "server1": "https://drive.google.com/file/d/1fnwC7O6RKRZeoW-_a139BN_sdfgFFyWa/view?usp=drivesdk",
       "server2": "https://kappa.lol/WDz6Nl",
-      "download": "https://kappa.lol/WDz6Nl"
+      "download": "https://kappa.lol/WDz6Nl",
     },
     {
   "id": "s1e30",
@@ -298,7 +298,7 @@
   "thumbnail": "https://media.themoviedb.org/t/p/w640_and_h360_face/c83QAXrIQ7C3Qs2CoBupoXMGDwM.jpg",
   "server1": "https://drive.google.com/file/d/1yIrcCVWTe8kExbM1Xl1Z7mCnn4_0R9ZQ/view?usp=drivesdk",
   "server2": "https://kappa.lol/USFC12",
-  "download": "https://kappa.lol/USFC12"
+  "download": "https://kappa.lol/USFC12",
 },
     {
   "id": "s1e31",
@@ -308,7 +308,7 @@
   "thumbnail": "https://media.themoviedb.org/t/p/w640_and_h360_face/cedhvpghgiJQDSOA3SBgTojfczD.jpg",
   "server1": "https://drive.google.com/file/d/1-wAcJxPZU1230nDO5XSXhFUoiVhlqRTh/view?usp=drivesdk",
   "server2": "https://kappa.lol/GYBG8V",
-  "download": "https://kappa.lol/GYBG8V"
+  "download": "https://kappa.lol/GYBG8V",
 }
     
   ]
