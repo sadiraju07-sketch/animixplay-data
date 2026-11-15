@@ -300,6 +300,16 @@
   "server2": "https://kappa.lol/USFC12",
   "download": "https://kappa.lol/USFC12"
 }
+    {
+  "id": "s1e31",
+  "episode": 31,
+  "title": "Christmas Eve",
+  "duration": "24m",
+  "thumbnail": "https://media.themoviedb.org/t/p/w640_and_h360_face/cedhvpghgiJQDSOA3SBgTojfczD.jpg",
+  "server1": "https://drive.google.com/file/d/1-wAcJxPZU1230nDO5XSXhFUoiVhlqRTh/view?usp=drivesdk",
+  "server2": "https://kappa.lol/GYBG8V",
+  "download": "https://kappa.lol/GYBG8V"
+}
     
   ]
 }
