@@ -1,0 +1,284 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "episode": 1,
+      "title": "Chinatsu Senpai",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/pv5dgn.mp4",
+      "server2": "https://archive.org/download/12_20260825/1.mp4",
+      "download": "https://archive.org/download/12_20260825/1.mkv"
+    },
+    {
+      "id": "s1e2",
+      "episode": 2,
+      "title": "You Have to Go to Nationals",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/bl1nyg.mp4",
+      "server2": "https://archive.org/download/12_20260825/2.mp4",
+      "download": "https://archive.org/download/12_20260825/2.mkv"
+    },
+    {
+      "id": "s1e3",
+      "episode": 3,
+      "title": "Chii",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/esqxgd.mp4",
+      "server2": "https://archive.org/download/12_20260825/3.mp4",
+      "download": "https://archive.org/download/12_20260825/3.mkv"
+    },
+    {
+      "id": "s1e4",
+      "episode": 4,
+      "title": "If He Wins",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/fbppo5.mp4",
+      "server2": "https://archive.org/download/12_20260825/4.mp4",
+      "download": "https://archive.org/download/12_20260825/4.mkv"
+    },
+    {
+      "id": "s1e5",
+      "episode": 5,
+      "title": "Aquarium",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/omp620.mp4",
+      "server2": "https://archive.org/download/12_20260825/5.mp4",
+      "download": "https://archive.org/download/12_20260825/5.mkv"
+    },
+    {
+      "id": "s1e6",
+      "episode": 6,
+      "title": "Wish Me Luck",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/v8fywq.mp4",
+      "server2": "https://archive.org/download/12_20260825/6.mp4",
+      "download": "https://archive.org/download/12_20260825/6.mkv"
+    },
+    {
+      "id": "s1e7",
+      "episode": 7,
+      "title": "Can I Have One?",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/iwnha8.mp4",
+      "server2": "https://archive.org/download/12_20260825/7.mp4",
+      "download": "https://archive.org/download/12_20260825/7.mkv"
+    },
+    {
+      "id": "s1e8",
+      "episode": 8,
+      "title": "Score!",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/ebbec4.mp4",
+      "server2": "https://archive.org/download/12_20260825/8.mp4",
+      "download": "https://archive.org/download/12_20260825/8.mkv"
+    },
+    {
+      "id": "s1e9",
+      "episode": 9,
+      "title": "I'll Be Rooting for You",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/cl1o13.mp4",
+      "server2": "https://archive.org/download/12_20260825/9.mp4",
+      "download": "https://archive.org/download/12_20260825/9.mkv"
+    },
+    {
+      "id": "s1e10",
+      "episode": 10,
+      "title": "It's Not a Good Thing",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/iliy3b.mp4",
+      "server2": "https://archive.org/download/12_20260825/10.mp4",
+      "download": "https://archive.org/download/12_20260825/10.mkv"
+    },
+    {
+      "id": "s1e11",
+      "episode": 11,
+      "title": "Uncool!",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/ogj9m9.mp4",
+      "server2": "https://archive.org/download/12_20260825/11.mp4",
+      "download": "https://archive.org/download/12_20260825/11.mkv"
+    },
+    {
+      "id": "s1e12",
+      "episode": 12,
+      "title": "Girls...",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/rrcrhg.mp4",
+      "server2": "https://archive.org/download/12_20260825/12.mp4",
+      "download": "https://archive.org/download/12_20260825/12.mkv"
+    },
+    {
+      "id": "s1e13",
+      "episode": 13,
+      "title": "I Want a Back-and-Forth Rally",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/ga5aif.mp4",
+      "server2": "https://archive.org/download/12_20260825/13.mp4",
+      "download": "https://archive.org/download/12_20260825/13.mkv"
+    },
+    {
+      "id": "s1e14",
+      "episode": 14,
+      "title": "What's the Connection?",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/bai0rs.mp4",
+      "server2": "https://archive.org/download/12_20260825/14.mp4",
+      "download": "https://archive.org/download/12_20260825/14.mkv"
+    },
+    {
+      "id": "s1e15",
+      "episode": 15,
+      "title": "August 26",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/ypv85h.mp4",
+      "server2": "https://archive.org/download/12_20260825/15.mp4",
+      "download": "https://archive.org/download/12_20260825/15.mkv"
+    },
+    {
+      "id": "s1e16",
+      "episode": 16,
+      "title": "Unfair Woman",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/d9qtg2.mp4",
+      "server2": "https://archive.org/download/12_20260825/16.mp4",
+      "download": "https://archive.org/download/12_20260825/16.mkv"
+    },
+    {
+      "id": "s1e17",
+      "episode": 17,
+      "title": "Of Course I Want to See It",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/csgs2l.mp4",
+      "server2": "https://archive.org/download/12_20260825/17.mp4",
+      "download": "https://archive.org/download/12_20260825/17.mkv"
+    },
+    {
+      "id": "s1e18",
+      "episode": 18,
+      "title": "I Know",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/4yj56e.mp4",
+      "server2": "https://archive.org/download/12_20260825/18.mp4",
+      "download": "https://archive.org/download/12_20260825/18.mkv"
+    },
+    {
+      "id": "s1e19",
+      "episode": 19,
+      "title": "I've Got Plans",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/a3hodl.mp4",
+      "server2": "https://archive.org/download/12_20260825/19.mp4",
+      "download": "https://archive.org/download/12_20260825/19.mkv"
+    },
+    {
+      "id": "s1e20",
+      "episode": 20,
+      "title": "As One of Her Closest Friends",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/r2p3dk.mp4",
+      "server2": "https://archive.org/download/12_20260825/20.mp4",
+      "download": "https://archive.org/download/12_20260825/20.mkv"
+    },
+    {
+      "id": "s1e21",
+      "episode": 21,
+      "title": "A Chance to Blossom",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/j7uifm.mp4",
+      "server2": "https://archive.org/download/12_20260825/21.mp4",
+      "download": "https://archive.org/download/12_20260825/21.mkv"
+    },
+    {
+      "id": "s1e22",
+      "episode": 22,
+      "title": "Inota!",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/67caqx.mp4",
+      "server2": "https://archive.org/download/12_20260825/22.mp4",
+      "download": "https://archive.org/download/12_20260825/22.mkv"
+    },
+    {
+      "id": "s1e23",
+      "episode": 23,
+      "title": "Spinning",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/m24vvr.mp4",
+      "server2": "https://archive.org/download/12_20260825/23.mp4",
+      "download": "https://archive.org/download/12_20260825/23.mkv"
+    },
+    {
+      "id": "s1e24",
+      "episode": 24,
+      "title": "A Roller Coaster",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/63jkdy.mp4",
+      "server2": "https://archive.org/download/12_20260825/24.mp4",
+      "download": "https://archive.org/download/12_20260825/24.mkv"
+    },
+    {
+      "id": "s1e25",
+      "episode": 25,
+      "title": "Even So",
+      "duration": "24m",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qptRyj1EVZh0fNn34dWKbLQJx7l.jpg",
+      "server1": "https://files.catbox.moe/v6or5b.mp4",
+      "server2": "https://archive.org/download/12_20260825/25.mp4",
+      "download": "https://archive.org/download/12_20260825/25.mkv"
+    },
+    {
+      "id": "s1e26",
+      "episode": 26,
+      "title": "Déjà Vu",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://drive.google.com/file/d/1NEUOJQKhx38hfrLNltXzIixCekJsUmKp/view?usp=drivesdk",
+      "server2": "https://leopard.hosting.pecon.us/dl/loqtf",
+      "download": "https://leopard.hosting.pecon.us/dl/loqtf"
+    },
+    {
+      "id": "s1e27",
+      "episode": 27,
+      "title": "Admiration",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://drive.google.com/file/d/1MIrMN1CnP1Tmf2yO3nre4NdKhpZqjVgQ/view?usp=drivesdk",
+      "server2": "https://leopard.hosting.pecon.us/dl/cqqff",
+      "download": "https://leopard.hosting.pecon.us/dl/cqqff"
+    },
+    {
+      "id": "s1e28",
+      "episode": 28,
+      "title": "Episode 28",
+      "duration": "24m",
+      "thumbnail": "",
+      "server1": "https://drive.google.com/file/d/16SvfKtlr1GdQqQ_VcGCJy3tTCEadi7W7/view?usp=drivesdk",
+      "server2": "https://leopard.hosting.pecon.us/dl/rpdmt",
+      "download": "https://leopard.hosting.pecon.us/dl/rpdmt"
+    }
+  ]
+}
