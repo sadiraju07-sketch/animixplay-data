@@ -1,0 +1,970 @@
+{
+  "1": [
+    {
+      "id": "s1e1",
+      "episode": 1,
+      "title": "The World of Swords",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581417.jpg",
+      "server1": "https://drive.google.com/file/d/1AuZlr5wAfFBzCXiOj3P-6o1cd6JP9WLx/view?usp=drivesdk",
+      "server2": "https://kappa.lol/mNAAm0",
+      "download": "https://drive.google.com/file/d/1AuZlr5wAfFBzCXiOj3P-6o1cd6JP9WLx/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e2",
+      "episode": 2,
+      "title": "Beater",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581423.jpg",
+      "server1": "https://drive.google.com/file/d/1LQlR74rWzWhtfJqG7Ys0qJevM4QrWgIc/view?usp=drivesdk",
+      "server2": "https://kappa.lol/aZrIpS",
+      "download": "https://drive.google.com/file/d/1LQlR74rWzWhtfJqG7Ys0qJevM4QrWgIc/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e3",
+      "episode": 3,
+      "title": "The Red-Nosed Reindeer",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581451.jpg",
+      "server1": "https://drive.google.com/file/d/1Vtkge_5m8E74jaXAgwpknl1mjg4anu1q/view?usp=drivesdk",
+      "server2": "https://kappa.lol/7D9KPs",
+      "download": "https://drive.google.com/file/d/1Vtkge_5m8E74jaXAgwpknl1mjg4anu1q/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e4",
+      "episode": 4,
+      "title": "The Black Swordsman",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581463.jpg",
+      "server1": "https://drive.google.com/file/d/10k1Xc9iAfq08nmUUiT2UqCtGqWLAwGu8/view?usp=drivesdk",
+      "server2": "https://kappa.lol/elSdcq",
+      "download": "https://drive.google.com/file/d/10k1Xc9iAfq08nmUUiT2UqCtGqWLAwGu8/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e5",
+      "episode": 5,
+      "title": "Murder in the Safe Zone",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584483.jpg",
+      "server1": "https://drive.google.com/file/d/1dL60MyJrSaBH6U-O8R2NDCer1Ice5kI0/view?usp=drivesdk",
+      "server2": "https://kappa.lol/fZZPaf",
+      "download": "https://drive.google.com/file/d/1dL60MyJrSaBH6U-O8R2NDCer1Ice5kI0/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e6",
+      "episode": 6,
+      "title": "Illusionary Avenger",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160844.jpg",
+      "server1": "https://drive.google.com/file/d/13bmWqBBXO5M0AMC5kEMt2KzfzMWjROzF/view?usp=drivesdk",
+      "server2": "https://kappa.lol/FqQmJk",
+      "download": "https://drive.google.com/file/d/13bmWqBBXO5M0AMC5kEMt2KzfzMWjROzF/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e7",
+      "episode": 7,
+      "title": "The Temperature of the Heart",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160845.jpg",
+      "server1": "https://drive.google.com/file/d/1NFFSErTiWvLblACTPY5u3Fui4mVgQL8V/view?usp=drivesdk",
+      "server2": "https://kappa.lol/uEHkF5",
+      "download": "https://drive.google.com/file/d/1NFFSErTiWvLblACTPY5u3Fui4mVgQL8V/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e8",
+      "episode": 8,
+      "title": "The Sword Dance of Black and White",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160846.jpg",
+      "server1": "https://drive.google.com/file/d/1keF8hK04lvHMeILUjHggeWvWx6jWVa9u/view?usp=drivesdk",
+      "server2": "https://kappa.lol/FQulPt",
+      "download": "https://drive.google.com/file/d/1keF8hK04lvHMeILUjHggeWvWx6jWVa9u/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e9",
+      "episode": 9,
+      "title": "The Blue-Eyed Demon",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160847.jpg",
+      "server1": "https://drive.google.com/file/d/1lLxtRu--ZVoGQZEFIxr6ywMhZfbjlpAO/view?usp=drivesdk",
+      "server2": "https://kappa.lol/hnIWwc",
+      "download": "https://drive.google.com/file/d/1lLxtRu--ZVoGQZEFIxr6ywMhZfbjlpAO/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e10",
+      "episode": 10,
+      "title": "Crimson Killing Intent",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160848.jpg",
+      "server1": "https://drive.google.com/file/d/1eFhukeY6_xD0xg0RzyA1LjWkwpBGwQMp/view?usp=drivesdk",
+      "server2": "https://kappa.lol/U3QwEv",
+      "download": "https://drive.google.com/file/d/1eFhukeY6_xD0xg0RzyA1LjWkwpBGwQMp/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e11",
+      "episode": 11,
+      "title": "Girl of the Morning Dew",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160849.jpg",
+      "server1": "https://drive.google.com/file/d/18mH_UK3O_cPWdMJgLPzhbwAf82fwGM1B/view?usp=drivesdk",
+      "server2": "https://kappa.lol/paWReO",
+      "download": "https://drive.google.com/file/d/18mH_UK3O_cPWdMJgLPzhbwAf82fwGM1B/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e12",
+      "episode": 12,
+      "title": "Yui's Heart",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160850.jpg",
+      "server1": "https://drive.google.com/file/d/1rquT4yxISFW6jb2UpgeYPXrs5Sa_PZ1C/view?usp=drivesdk",
+      "server2": "https://kappa.lol/EIYc0w",
+      "download": "https://drive.google.com/file/d/1rquT4yxISFW6jb2UpgeYPXrs5Sa_PZ1C/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e13",
+      "episode": 13,
+      "title": "Edge of Hell's Abyss",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160851.jpg",
+      "server1": "https://drive.google.com/file/d/1irkWJ5TcpiRdIx3V758AAfSGVYF9IZy6/view?usp=drivesdk",
+      "server2": "https://kappa.lol/roNuoE",
+      "download": "https://drive.google.com/file/d/1irkWJ5TcpiRdIx3V758AAfSGVYF9IZy6/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e14",
+      "episode": 14,
+      "title": "The End of the World",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160852.jpg",
+      "server1": "https://drive.google.com/file/d/1evqywgTPGAOpbLfxAMktYHLfU-nFakLM/view?usp=drivesdk",
+      "server2": "https://kappa.lol/2b520W",
+      "download": "https://drive.google.com/file/d/1evqywgTPGAOpbLfxAMktYHLfU-nFakLM/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e15",
+      "episode": 15,
+      "title": "Return",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160853.jpg",
+      "server1": "https://drive.google.com/file/d/1k0MBozsmNXOrZzZDmW78MfxYbQNKQTC5/view?usp=drivesdk",
+      "server2": "https://kappa.lol/Vb2y0w",
+      "download": "https://drive.google.com/file/d/1k0MBozsmNXOrZzZDmW78MfxYbQNKQTC5/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e16",
+      "episode": 16,
+      "title": "Land of the Fairies",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160854.jpg",
+      "server1": "https://drive.google.com/file/d/1moCEtXdhGRoShfrTTNbkh8SmlQffEze3/view?usp=drivesdk",
+      "server2": "https://kappa.lol/ixla1k",
+      "download": "https://drive.google.com/file/d/1moCEtXdhGRoShfrTTNbkh8SmlQffEze3/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e17",
+      "episode": 17,
+      "title": "Captive Queen",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160855.jpg",
+      "server1": "https://drive.google.com/file/d/1wHPb8GL1fvP7SxMk8qg_0ApliQ59OZcV/view?usp=drivesdk",
+      "server2": "https://kappa.lol/aV1KQu",
+      "download": "https://drive.google.com/file/d/1wHPb8GL1fvP7SxMk8qg_0ApliQ59OZcV/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e18",
+      "episode": 18,
+      "title": "To the World Tree",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160856.jpg",
+      "server1": "https://drive.google.com/file/d/1gJVZTto722CjUCrPdHFuMAczZpkDv3E-/view?usp=drivesdk",
+      "server2": "https://kappa.lol/6o5Gzt",
+      "download": "https://drive.google.com/file/d/1gJVZTto722CjUCrPdHFuMAczZpkDv3E-/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e19",
+      "episode": 19,
+      "title": "The Legrue Corridor",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160857.jpg",
+      "server1": "https://drive.google.com/file/d/1NKuLK8_Uzepn68ecv8kqHnoLCF_PV_E1/view?usp=drivesdk",
+      "server2": "https://kappa.lol/aysfl9",
+      "download": "https://drive.google.com/file/d/1NKuLK8_Uzepn68ecv8kqHnoLCF_PV_E1/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e20",
+      "episode": 20,
+      "title": "General of the Blazing Flame",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160858.jpg",
+      "server1": "https://drive.google.com/file/d/19rhKAG0ZY7VjoKYnimglnWyEtT1eLIdP/view?usp=drivesdk",
+      "server2": "https://kappa.lol/IAS07m",
+      "download": "https://drive.google.com/file/d/19rhKAG0ZY7VjoKYnimglnWyEtT1eLIdP/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e21",
+      "episode": 21,
+      "title": "The Truth About Alfheim",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160859.jpg",
+      "server1": "https://drive.google.com/file/d/1OAHO6y-aRaoSTxfi_DK48Ktno8ikCGLV/view?usp=drivesdk",
+      "server2": "https://kappa.lol/zDyxil",
+      "download": "https://drive.google.com/file/d/1OAHO6y-aRaoSTxfi_DK48Ktno8ikCGLV/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e22",
+      "episode": 22,
+      "title": "The Grand Quest",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160860.jpg",
+      "server1": "https://drive.google.com/file/d/1MkG6Dy13f7OL3szZX5Lp5Z3ifYwECton/view?usp=drivesdk",
+      "server2": "https://kappa.lol/VeyX6L",
+      "download": "https://drive.google.com/file/d/1MkG6Dy13f7OL3szZX5Lp5Z3ifYwECton/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e23",
+      "episode": 23,
+      "title": "Bonds",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160861.jpg",
+      "server1": "https://drive.google.com/file/d/1CDOz7UDvBmja4nkr1p-Btf3V68NZIRUY/view?usp=drivesdk",
+      "server2": "https://kappa.lol/q38DiV",
+      "download": "https://drive.google.com/file/d/1CDOz7UDvBmja4nkr1p-Btf3V68NZIRUY/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e24",
+      "episode": 24,
+      "title": "Gilded Hero",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160862.jpg",
+      "server1": "https://drive.google.com/file/d/1yYPhldahy-hG_2pX2PLdsrmNg_ui1h34/view?usp=drivesdk",
+      "server2": "https://kappa.lol/cQUMYf",
+      "download": "https://drive.google.com/file/d/1yYPhldahy-hG_2pX2PLdsrmNg_ui1h34/view?usp=drivesdk"
+    },
+    {
+      "id": "s1e25",
+      "episode": 25,
+      "title": "The World Seed",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160863.jpg",
+      "server1": "https://drive.google.com/file/d/12RmCLxB2_43IBjC2uq8-BW2N0BguzLXA/view?usp=drivesdk",
+      "server2": "https://kappa.lol/RXe3Vl",
+      "download": "https://drive.google.com/file/d/12RmCLxB2_43IBjC2uq8-BW2N0BguzLXA/view?usp=drivesdk"
+    }
+  ],
+  "2": [
+    {
+      "id": "s2e1",
+      "episode": 1,
+      "title": "The World of Guns",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160866.jpg",
+      "server1": "https://drive.google.com/file/d/1tKvAfIM7wEKuBJkPbqCrA0OiB7eI6ytF/view?usp=drivesdk",
+      "server2": "https://kappa.lol/yVgzq9",
+      "download": "https://drive.google.com/file/d/1tKvAfIM7wEKuBJkPbqCrA0OiB7eI6ytF/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e2",
+      "episode": 2,
+      "title": "Cold-Hearted Sniper",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160867.jpg",
+      "server1": "https://drive.google.com/file/d/1CY1_gJzgYrsnQn-pUDOANKFqttMQmZ3U/view?usp=drivesdk",
+      "server2": "https://kappa.lol/zqkHAP",
+      "download": "https://drive.google.com/file/d/1CY1_gJzgYrsnQn-pUDOANKFqttMQmZ3U/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e3",
+      "episode": 3,
+      "title": "Memories of Blood",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160868.jpg",
+      "server1": "https://drive.google.com/file/d/18p6OPyvldcEqIvIoFIv5GXmIbsQJxeeD/view?usp=drivesdk",
+      "server2": "https://kappa.lol/daiIwO",
+      "download": "https://drive.google.com/file/d/18p6OPyvldcEqIvIoFIv5GXmIbsQJxeeD/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e4",
+      "episode": 4,
+      "title": "GGO",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160869.jpg",
+      "server1": "https://drive.google.com/file/d/18enWoUC6wUCSNmKWDRzxVhrd0vAaDwYo/view?usp=drivesdk",
+      "server2": "https://kappa.lol/i23uQP",
+      "download": "https://drive.google.com/file/d/18enWoUC6wUCSNmKWDRzxVhrd0vAaDwYo/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e5",
+      "episode": 5,
+      "title": "Guns and Swords",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160870.jpg",
+      "server1": "https://drive.google.com/file/d/10bO-jMWfzuGPwFzSDQtdaZo9Q3aZYExH/view?usp=drivesdk",
+      "server2": "https://kappa.lol/gCWzbe",
+      "download": "https://drive.google.com/file/d/10bO-jMWfzuGPwFzSDQtdaZo9Q3aZYExH/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e6",
+      "episode": 6,
+      "title": "Showdown in the Wilderness",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160871.jpg",
+      "server1": "https://drive.google.com/file/d/151E8qn20eHv3g9JpxfPi9kDH_w1XfDyF/view?usp=drivesdk",
+      "server2": "https://kappa.lol/4Np2K9",
+      "download": "https://drive.google.com/file/d/151E8qn20eHv3g9JpxfPi9kDH_w1XfDyF/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e7",
+      "episode": 7,
+      "title": "Crimson Memories",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160872.jpg",
+      "server1": "https://drive.google.com/file/d/1A7TLi-RZtrJNkrlH_D2lz97GB1pCWo0Z/view?usp=drivesdk",
+      "server2": "https://kappa.lol/RJ5a7o",
+      "download": "https://drive.google.com/file/d/1A7TLi-RZtrJNkrlH_D2lz97GB1pCWo0Z/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e8",
+      "episode": 8,
+      "title": "Bullet of Bullets",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160873.jpg",
+      "server1": "https://drive.google.com/file/d/1Hdhq2eV9_tUal4n8ksU1l6K3hiIrbB52/view?usp=drivesdk",
+      "server2": "https://kappa.lol/cCPyXI",
+      "download": "https://drive.google.com/file/d/1Hdhq2eV9_tUal4n8ksU1l6K3hiIrbB52/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e9",
+      "episode": 9,
+      "title": "Death Gun",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160874.jpg",
+      "server1": "https://drive.google.com/file/d/1JC8QKCsxZKQaN3kMz680mEmC3ssMPNiE/view?usp=drivesdk",
+      "server2": "https://kappa.lol/2cmX4Y",
+      "download": "https://drive.google.com/file/d/1JC8QKCsxZKQaN3kMz680mEmC3ssMPNiE/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e10",
+      "episode": 10,
+      "title": "Death Chaser",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160875.jpg",
+      "server1": "https://drive.google.com/file/d/1pt1OW-JPPgqta3bVVlT8TwqvkOI8wNZE/view?usp=drivesdk",
+      "server2": "https://kappa.lol/RLQnNL",
+      "download": "https://drive.google.com/file/d/1pt1OW-JPPgqta3bVVlT8TwqvkOI8wNZE/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e11",
+      "episode": 11,
+      "title": "What It Means to Be Strong",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160876.jpg",
+      "server1": "https://drive.google.com/file/d/150eLSVTMaVbrMSIeMEp7elJzPfG_gbvC/view?usp=drivesdk",
+      "server2": "https://kappa.lol/y3wRfd",
+      "download": "https://drive.google.com/file/d/150eLSVTMaVbrMSIeMEp7elJzPfG_gbvC/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e12",
+      "episode": 12,
+      "title": "Bullet of a Phantom",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160877.jpg",
+      "server1": "https://drive.google.com/file/d/1khdNQCOL2lpqIx6IEHP76NCj8wrmLjf-/view?usp=drivesdk",
+      "server2": "https://kappa.lol/UmF1tM",
+      "download": "https://drive.google.com/file/d/1khdNQCOL2lpqIx6IEHP76NCj8wrmLjf-/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e13",
+      "episode": 13,
+      "title": "Phantom Bullet",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160878.jpg",
+      "server1": "https://drive.google.com/file/d/1paEN7HXu2cnaoFw239oblT9ihH0ToydR/view?usp=drivesdk",
+      "server2": "https://kappa.lol/EINBmm",
+      "download": "https://drive.google.com/file/d/1paEN7HXu2cnaoFw239oblT9ihH0ToydR/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e14",
+      "episode": 14,
+      "title": "One Little Step",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160879.jpg",
+      "server1": "https://drive.google.com/file/d/1O0UAOc99gRHkQHtJiRdHW2MLdh5nf5uE/view?usp=drivesdk",
+      "server2": "https://kappa.lol/rDDsEX",
+      "download": "https://drive.google.com/file/d/1O0UAOc99gRHkQHtJiRdHW2MLdh5nf5uE/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e15",
+      "episode": 15,
+      "title": "The Queen of the Lake",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160891.jpg",
+      "server1": "https://drive.google.com/file/d/1Zj6smD-gZ9N6G79ArnUy678xOx5OnbPX/view?usp=drivesdk",
+      "server2": "https://kappa.lol/xls7yr",
+      "download": "https://drive.google.com/file/d/1Zj6smD-gZ9N6G79ArnUy678xOx5OnbPX/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e16",
+      "episode": 16,
+      "title": "The King of the Giants",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160892.jpg",
+      "server1": "https://drive.google.com/file/d/1_vtHQArYcqzemKfHJS6c9hlJeVfkILBf/view?usp=drivesdk",
+      "server2": "https://kappa.lol/isa8o5",
+      "download": "https://drive.google.com/file/d/1_vtHQArYcqzemKfHJS6c9hlJeVfkILBf/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e17",
+      "episode": 17,
+      "title": "Excalibur",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160893.jpg",
+      "server1": "https://drive.google.com/file/d/1GD8Kvl4_6SkfZrUoGPbsmvpKkj4vy6_v/view?usp=drivesdk",
+      "server2": "https://kappa.lol/xUd2j0",
+      "download": "https://drive.google.com/file/d/1GD8Kvl4_6SkfZrUoGPbsmvpKkj4vy6_v/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e18",
+      "episode": 18,
+      "title": "Forest House",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160894.jpg",
+      "server1": "https://drive.google.com/file/d/13mbjoxr8GSkHJUO5O-EF80rIQLnOkIQt/view?usp=drivesdk",
+      "server2": "https://kappa.lol/eKpfcp",
+      "download": "https://drive.google.com/file/d/13mbjoxr8GSkHJUO5O-EF80rIQLnOkIQt/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e19",
+      "episode": 19,
+      "title": "Zekken",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160895.jpg",
+      "server1": "https://drive.google.com/file/d/1H1uJmdNHVIkK8siklhb32IYgBHSdHA0Z/view?usp=drivesdk",
+      "server2": "https://kappa.lol/GJdFq0",
+      "download": "https://drive.google.com/file/d/1H1uJmdNHVIkK8siklhb32IYgBHSdHA0Z/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e20",
+      "episode": 20,
+      "title": "Sleeping Knights",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160896.jpg",
+      "server1": "https://drive.google.com/file/d/1KYeqk3STeYpcZ3urAu7SvUXzlpdfxbWY/view?usp=drivesdk",
+      "server2": "https://kappa.lol/KKzwkU",
+      "download": "https://drive.google.com/file/d/1KYeqk3STeYpcZ3urAu7SvUXzlpdfxbWY/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e21",
+      "episode": 21,
+      "title": "Swordsman's Memorial",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160898.jpg",
+      "server1": "https://drive.google.com/file/d/1fzXkR2WT2Jo6M-wbDkOdL1ViWL-dSn_G/view?usp=drivesdk",
+      "server2": "https://kappa.lol/ywtKxE",
+      "download": "https://drive.google.com/file/d/1fzXkR2WT2Jo6M-wbDkOdL1ViWL-dSn_G/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e22",
+      "episode": 22,
+      "title": "Journey's End",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160899.jpg",
+      "server1": "https://drive.google.com/file/d/1uXQiaup5qqicz81SKG8OmZc7D1nlj3Pf/view?usp=drivesdk",
+      "server2": "https://kappa.lol/bJQKmJ",
+      "download": "https://drive.google.com/file/d/1uXQiaup5qqicz81SKG8OmZc7D1nlj3Pf/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e23",
+      "episode": 23,
+      "title": "Beginning of a Dream",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160900.jpg",
+      "server1": "https://drive.google.com/file/d/1hmb0F4W1fcQcfuY1HTX3hLSvJTQFaXfN/view?usp=drivesdk",
+      "server2": "https://kappa.lol/1ms5mm",
+      "download": "https://drive.google.com/file/d/1hmb0F4W1fcQcfuY1HTX3hLSvJTQFaXfN/view?usp=drivesdk"
+    },
+    {
+      "id": "s2e24",
+      "episode": 24,
+      "title": "Mother's Rosario",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/64/160901.jpg",
+      "server1": "https://drive.google.com/file/d/14i3CM0sMZMg_VS4RXYHrt1l5xJzY09IC/view?usp=drivesdk",
+      "server2": "https://kappa.lol/CbhoLN",
+      "download": "https://drive.google.com/file/d/14i3CM0sMZMg_VS4RXYHrt1l5xJzY09IC/view?usp=drivesdk"
+    }
+  ],
+  "3": [
+    {
+      "id": "s3e1",
+      "episode": 1,
+      "title": "Underworld",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/171/429355.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e2",
+      "episode": 2,
+      "title": "The Demon Tree",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/171/429442.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e3",
+      "episode": 3,
+      "title": "The End Mountains",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/172/431635.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e4",
+      "episode": 4,
+      "title": "Departure",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459844.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e5",
+      "episode": 5,
+      "title": "Ocean Turtle",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459845.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e6",
+      "episode": 6,
+      "title": "Project Alicization",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459846.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e7",
+      "episode": 7,
+      "title": "Swordcraft Academy",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459848.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e8",
+      "episode": 8,
+      "title": "Swordsman's Pride",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459849.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e9",
+      "episode": 9,
+      "title": "Nobleman's Responsibilities",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459851.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e10",
+      "episode": 10,
+      "title": "Taboo Index",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459854.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e11",
+      "episode": 11,
+      "title": "Central Cathedral",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459855.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e12",
+      "episode": 12,
+      "title": "The Sage of the Library",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459857.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e13",
+      "episode": 13,
+      "title": "Ruler and Mediator",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459859.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e14",
+      "episode": 14,
+      "title": "The Crimson Knight",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459860.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e15",
+      "episode": 15,
+      "title": "The Relentless Knight",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459861.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e16",
+      "episode": 16,
+      "title": "The Osmanthus Knight",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459863.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e17",
+      "episode": 17,
+      "title": "Truce",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459864.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e18",
+      "episode": 18,
+      "title": "The Legendary Hero",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/183/459865.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e19",
+      "episode": 19,
+      "title": "The Seal of the Right Eye",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/193/484323.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e20",
+      "episode": 20,
+      "title": "Synthesis",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/193/484324.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e21",
+      "episode": 21,
+      "title": "The 32nd Knight",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/193/484325.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e22",
+      "episode": 22,
+      "title": "Titan of the Sword",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/193/484326.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e23",
+      "episode": 23,
+      "title": "Administrator",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/193/484327.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s3e24",
+      "episode": 24,
+      "title": "My Hero",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/193/484328.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    }
+  ],
+  "4": [
+    {
+      "id": "s4e1",
+      "episode": 1,
+      "title": "In the Far North",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/216/541938.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e2",
+      "episode": 2,
+      "title": "Raids",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/216/541939.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e3",
+      "episode": 3,
+      "title": "The Final Load Test",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/218/546501.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e4",
+      "episode": 4,
+      "title": "Dark Territory",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/218/546502.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e5",
+      "episode": 5,
+      "title": "The Night Before Battle",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/222/555510.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e6",
+      "episode": 6,
+      "title": "Battle of the Knights",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/227/567827.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e7",
+      "episode": 7,
+      "title": "Stigma of the Disqualified",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/227/568446.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e8",
+      "episode": 8,
+      "title": "Blood and Life",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/229/572825.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e9",
+      "episode": 9,
+      "title": "Sword and Fist",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/230/576233.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e10",
+      "episode": 10,
+      "title": "Stacia, the Goddess of Creation",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/231/579877.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e11",
+      "episode": 11,
+      "title": "Heartless Choice",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/232/582433.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e12",
+      "episode": 12,
+      "title": "Ray of Light",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/234/585348.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e13",
+      "episode": 13,
+      "title": "The War of Underworld",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/265/663962.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e14",
+      "episode": 14,
+      "title": "End to Eternity",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/266/665869.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e15",
+      "episode": 15,
+      "title": "Instigation",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/266/665871.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e16",
+      "episode": 16,
+      "title": "Code 871",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/267/668040.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e17",
+      "episode": 17,
+      "title": "Prince of Hell",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/269/673178.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e18",
+      "episode": 18,
+      "title": "Memories",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/272/680053.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e19",
+      "episode": 19,
+      "title": "Awakening",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/272/680054.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e20",
+      "episode": 20,
+      "title": "The Night-Sky Blade",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/272/680055.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e21",
+      "episode": 21,
+      "title": "Beyond Time",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/273/684977.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e22",
+      "episode": 22,
+      "title": "Alice",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/273/684978.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    },
+    {
+      "id": "s4e23",
+      "episode": 23,
+      "title": "New World",
+      "duration": "24m",
+      "thumbnail": "https://static.tvmaze.com/uploads/images/original_untouched/274/686794.jpg",
+      "server1": "",
+      "server2": "",
+      "download": ""
+    }
+  ]
+}
