@@ -249,10 +249,12 @@
       "server1": "https://files.catbox.moe/v6or5b.mp4",
       "server2": "https://archive.org/download/12_20260825/25.mp4",
       "download": "https://archive.org/download/12_20260825/25.mkv"
-    },
+    }
+  ],
+  "2": [
     {
-      "id": "s1e26",
-      "episode": 26,
+      "id": "s2e1",
+      "episode": 1,
       "title": "Déjà Vu",
       "duration": "24m",
       "thumbnail": "",
@@ -261,8 +263,8 @@
       "download": "https://leopard.hosting.pecon.us/dl/loqtf"
     },
     {
-      "id": "s1e27",
-      "episode": 27,
+      "id": "s2e2",
+      "episode": 2,
       "title": "Admiration",
       "duration": "24m",
       "thumbnail": "",
@@ -271,8 +273,8 @@
       "download": "https://leopard.hosting.pecon.us/dl/cqqff"
     },
     {
-      "id": "s1e28",
-      "episode": 28,
+      "id": "s2e3",
+      "episode": 3,
       "title": "Episode 28",
       "duration": "24m",
       "thumbnail": "",
@@ -281,8 +283,8 @@
       "download": "https://leopard.hosting.pecon.us/dl/rpdmt"
     },
     {
-      "id": "s1e29",
-      "episode": 29,
+      "id": "s2e4",
+      "episode": 4,
       "title": "Love Is the Most Powerful Feeling",
       "duration": "24m",
       "thumbnail": "https://media.themoviedb.org/t/p/w640_and_h360_face/7CjZYtAnNIRfarJhDdnlJB1JJIX.jpg",
@@ -291,8 +293,8 @@
       "download": "https://kappa.lol/WDz6Nl"
     },
     {
-      "id": "s1e30",
-      "episode": 30,
+      "id": "s2e5",
+      "episode": 5,
       "title": "It's Back",
       "duration": "24m",
       "thumbnail": "https://media.themoviedb.org/t/p/w640_and_h360_face/c83QAXrIQ7C3Qs2CoBupoXMGDwM.jpg",
@@ -301,8 +303,8 @@
       "download": "https://kappa.lol/USFC12"
     },
     {
-      "id": "s1e31",
-      "episode": 31,
+      "id": "s2e6",
+      "episode": 6,
       "title": "Christmas Eve",
       "duration": "24m",
       "thumbnail": "https://media.themoviedb.org/t/p/w640_and_h360_face/cedhvpghgiJQDSOA3SBgTojfczD.jpg",
