@@ -311,6 +311,16 @@
       "server1": "https://drive.google.com/file/d/1-wAcJxPZU1230nDO5XSXhFUoiVhlqRTh/view?usp=drivesdk",
       "server2": "https://kappa.lol/GYBG8V",
       "download": "https://kappa.lol/GYBG8V"
+    },
+    {
+      "id": "s2e7",
+      "episode": 7,
+      "title": "I Need to Tell You Something",
+      "duration": "24m",
+      "thumbnail": "https://media.themoviedb.org/t/p/w640_and_h360_face/S2QfFGwXoN27RhIzuawhSuDH4K.jpg",
+      "server1": "https://drive.google.com/file/d/12fXX9vzosqbSqJdhpx_FxMSOr1r2Wl8R/view?usp=drivesdk",
+      "server2": "https://kappa.lol/GYBG8V",
+      "download": "https://kappa.lol/GYBG8V"
     }
   ]
 }
